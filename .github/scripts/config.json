@@ -1,0 +1,73 @@
+{
+  "repo": "Cybersecurity-Jobs",
+  "owner": "dreamworkhq",
+  "title": "Cybersecurity Jobs",
+  "tagline": "Security engineering, InfoSec, AppSec, SOC, and GRC roles in the US and worldwide. Every listing is classified by function from the posting itself and rechecked daily.",
+  "description": "Cybersecurity jobs updated daily. Security engineering, InfoSec, AppSec, SOC, and GRC roles with salaries, from 400,000+ crawled listings.",
+  "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-cybersecurity-jobs",
+  "topics": [
+    "cybersecurity",
+    "infosec",
+    "jobs",
+    "job-search",
+    "security",
+    "appsec",
+    "jobboard",
+    "careers",
+    "tech-jobs",
+    "security-jobs",
+    "soc",
+    "penetration-testing",
+    "hiring",
+    "cybersecurity-jobs",
+    "cloud-security"
+  ],
+  "utmCampaign": "gh-cybersecurity-jobs",
+  "keywords": "cybersecurity roles (security engineering, InfoSec, AppSec, SOC, GRC)",
+  "sources": [
+    {
+      "function": "Security"
+    }
+  ],
+  "usOnly": false,
+  "titleInclude": null,
+  "titleExclude": "director|\\bvp\\b|head of|chief|\\bguard\\b",
+  "maxRows": 600,
+  "minRows": 25,
+  "maxPagesPerSource": 60,
+  "groupBy": null,
+  "showAiColumn": false,
+  "siblings": [
+    {
+      "repo": "dreamworkhq/DevOps-SRE-Cloud-Jobs",
+      "label": "DevOps, SRE, and Cloud Jobs: platform and infrastructure roles"
+    },
+    {
+      "repo": "dreamworkhq/Remote-Tech-Jobs",
+      "label": "Remote Tech Jobs: fully remote engineering roles"
+    },
+    {
+      "repo": "dreamworkhq/New-Grad-Software-Engineer-Jobs",
+      "label": "New Grad Software Engineer Jobs: entry-level roles for graduates"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often is this list updated?",
+      "a": "Once a day. A GitHub Action pulls new security listings from Dreamwork's public API, which crawls company career pages directly (Greenhouse, Lever, Ashby, Workday, and others). Use <kbd>Ctrl</kbd>+<kbd>F</kbd> for AppSec, SOC, detection, pentest, or GRC roles."
+    },
+    {
+      "q": "What counts as a cybersecurity job here?",
+      "a": "Roles classified into the security function by a model that reads each posting: security engineers and analysts, AppSec, cloud security, detection and response, penetration testing, and GRC. Physical-security roles are filtered out."
+    },
+    {
+      "q": "Where does the salary data come from?",
+      "a": "From the postings themselves. When a posting does not state pay, the column is blank. Nothing is estimated."
+    },
+    {
+      "q": "Can a tool apply to these for me?",
+      "a": "Yes. <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-cybersecurity-jobs\">Dreamwork</a> matches your resume against every listing here, tailors each application, and can submit them for you. Seeing your matches is free."
+    }
+  ],
+  "mode": "fresh"
+}
