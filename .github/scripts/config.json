@@ -31,7 +31,7 @@
   ],
   "usOnly": false,
   "titleInclude": "\\b(?:cyber(?:security)?|cybersécurité|information security|infosec|application security|appsec|cloud security|product security|network(?: &)? security|platform security|infrastructure security|data security|software security|systems? security|endpoint security|mobile security|android security|security (?:engineer|analyst|architect|consultant|researcher|developer|administrator|admin|specialist|operations|automation|compliance|program manager|technical lead|expert|solutions architect|software|systems?|platform|infrastructure)|soc analyst|security operations center|incident response|threat|vulnerabilit|penetration|offensive security|defensive security|identity (?:and access|access|security)|endpoint privilege|\\biam\\b|\\bgrc\\b|governance.{0,20}risk|risk.{0,20}compliance|privacy engineer|cryptograph|red team|blue team|malware|forensic|devsecops|secops|\\bpki\\b|zero trust|security clearance)\\b",
-  "titleExclude": "director|\\bvp\\b|head of|chief|physical security|target security specialist|security (?:officer|guard|supervisor|attendant|patrol|dispatcher|ambassador|monitor)|event security|loss prevention|asset protection|public safety|protective services|armed security|unarmed security|corporate security",
+  "titleExclude": "director|vice president|\\bvp\\b|head of|chief|physical security|target security specialist|security (?:officer|guard|supervisor|attendant|patrol|dispatcher|ambassador|monitor)|event security|loss prevention|asset protection|public safety|protective services|armed security|unarmed security|corporate security",
   "maxRows": 600,
   "minRows": 25,
   "maxPagesPerSource": 60,
