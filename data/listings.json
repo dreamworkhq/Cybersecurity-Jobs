@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T23:26:40.340Z",
+  "generatedAt": "2026-08-21T23:45:34.171Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Cybersecurity-Jobs",
-  "count": 471,
+  "count": 475,
   "listings": [
     {
       "id": "3e5af23f-70f3-4fd9-8994-0911bc281799",
@@ -2975,8 +2975,8 @@
       "url": "https://www.dreamworkhq.com/job/2cb5088f-1512-4f6a-a8b4-a4b11331ad08?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "0fad7496-9f86-43aa-9d70-c277e497de7c",
-      "title": "Information Security Co-op – Identity & Access Management – Summer 2027",
+      "id": "d109390a-c944-454c-9451-9d9754ba05af",
+      "title": "Information Security Co-op – Identity & Access Management – Spring 2027",
       "company": "Fifththird",
       "companyDomain": "53.com",
       "location": "Cincinnati, OH",
@@ -2985,9 +2985,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T09:33:49.894Z",
+      "postedAt": "2026-08-20T09:33:49.896Z",
       "firstIndexedAt": "2026-08-21T06:36:01.181Z",
-      "url": "https://www.dreamworkhq.com/job/0fad7496-9f86-43aa-9d70-c277e497de7c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/d109390a-c944-454c-9451-9d9754ba05af?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "62864057-bdf8-4cd8-b4e0-d64f710b2498",
@@ -3005,8 +3005,8 @@
       "url": "https://www.dreamworkhq.com/job/62864057-bdf8-4cd8-b4e0-d64f710b2498?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "d109390a-c944-454c-9451-9d9754ba05af",
-      "title": "Information Security Co-op – Identity & Access Management – Spring 2027",
+      "id": "0fad7496-9f86-43aa-9d70-c277e497de7c",
+      "title": "Information Security Co-op – Identity & Access Management – Summer 2027",
       "company": "Fifththird",
       "companyDomain": "53.com",
       "location": "Cincinnati, OH",
@@ -3015,9 +3015,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T09:33:49.896Z",
+      "postedAt": "2026-08-20T09:33:49.894Z",
       "firstIndexedAt": "2026-08-21T06:36:01.181Z",
-      "url": "https://www.dreamworkhq.com/job/d109390a-c944-454c-9451-9d9754ba05af?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/0fad7496-9f86-43aa-9d70-c277e497de7c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "1eb5e6dd-1b7b-4995-890e-21a7b6fd8fa8",
@@ -3035,21 +3035,6 @@
       "url": "https://www.dreamworkhq.com/job/1eb5e6dd-1b7b-4995-890e-21a7b6fd8fa8?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "8813484d-e267-42ed-9548-509b559faa88",
-      "title": "Applicatie ontwikkelaar - Security architect",
-      "company": "EURES Netherlands (Professional)",
-      "companyDomain": "ssc-ict.nl",
-      "location": "Netherlands",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-21T01:13:30.337Z",
-      "firstIndexedAt": "2026-08-21T06:32:16.212Z",
-      "url": "https://www.dreamworkhq.com/job/8813484d-e267-42ed-9548-509b559faa88?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "9cec8e5b-df67-4851-8112-a712a251406b",
       "title": "Applicatie Ontwikkelaar - Security Architect",
       "company": "EURES Netherlands (Professional)",
@@ -3063,6 +3048,21 @@
       "postedAt": "2026-08-21T01:13:18.125Z",
       "firstIndexedAt": "2026-08-21T06:32:16.212Z",
       "url": "https://www.dreamworkhq.com/job/9cec8e5b-df67-4851-8112-a712a251406b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "8813484d-e267-42ed-9548-509b559faa88",
+      "title": "Applicatie ontwikkelaar - Security architect",
+      "company": "EURES Netherlands (Professional)",
+      "companyDomain": "ssc-ict.nl",
+      "location": "Netherlands",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-21T01:13:30.337Z",
+      "firstIndexedAt": "2026-08-21T06:32:16.212Z",
+      "url": "https://www.dreamworkhq.com/job/8813484d-e267-42ed-9548-509b559faa88?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "41c8c0aa-2665-452b-acfd-7b499cb51086",
@@ -3125,8 +3125,8 @@
       "url": "https://www.dreamworkhq.com/job/50b91632-b1b6-420d-9b2d-4a9069c37b1d?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "44e86bc5-bae4-49cb-b5eb-7df3145d5797",
-      "title": "Cybersecurity Engineer - GRC / RSA Archer",
+      "id": "c04849a6-8a41-4ef0-8a9f-47f21a643d14",
+      "title": "Cybersecurity Engineer - Web Application Firewall (F5 ASM)",
       "company": "Electrosoft",
       "companyDomain": "electrosoft-inc.com",
       "location": "Richmond, VA, Columbus, OH",
@@ -3135,9 +3135,9 @@
       "salaryMax": 160000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T13:28:26.000Z",
+      "postedAt": "2026-08-18T13:29:05.000Z",
       "firstIndexedAt": "2026-08-21T06:15:11.099Z",
-      "url": "https://www.dreamworkhq.com/job/44e86bc5-bae4-49cb-b5eb-7df3145d5797?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/c04849a6-8a41-4ef0-8a9f-47f21a643d14?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "fe583e19-7adb-47ca-8451-b77f02230cb9",
@@ -3155,8 +3155,8 @@
       "url": "https://www.dreamworkhq.com/job/fe583e19-7adb-47ca-8451-b77f02230cb9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "c04849a6-8a41-4ef0-8a9f-47f21a643d14",
-      "title": "Cybersecurity Engineer - Web Application Firewall (F5 ASM)",
+      "id": "44e86bc5-bae4-49cb-b5eb-7df3145d5797",
+      "title": "Cybersecurity Engineer - GRC / RSA Archer",
       "company": "Electrosoft",
       "companyDomain": "electrosoft-inc.com",
       "location": "Richmond, VA, Columbus, OH",
@@ -3165,9 +3165,9 @@
       "salaryMax": 160000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T13:29:05.000Z",
+      "postedAt": "2026-08-18T13:28:26.000Z",
       "firstIndexedAt": "2026-08-21T06:15:11.099Z",
-      "url": "https://www.dreamworkhq.com/job/c04849a6-8a41-4ef0-8a9f-47f21a643d14?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/44e86bc5-bae4-49cb-b5eb-7df3145d5797?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "144faf48-4284-46ae-b303-3b9334d6c173",
@@ -3198,6 +3198,21 @@
       "postedAt": "2026-03-02T09:14:36.000Z",
       "firstIndexedAt": "2026-08-21T06:15:09.694Z",
       "url": "https://www.dreamworkhq.com/job/10a97deb-efd8-4384-94f0-3cd6a81bf24c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "a606d77d-2d17-4a60-960b-2f9cdd6ae49a",
+      "title": "Security Engineer",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Seattle, WA, United States",
+      "remoteType": "remote",
+      "salaryMin": 125000,
+      "salaryMax": 148000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T21:21:48.471Z",
+      "firstIndexedAt": "2026-08-21T06:00:41.298Z",
+      "url": "https://www.dreamworkhq.com/job/a606d77d-2d17-4a60-960b-2f9cdd6ae49a?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "00f08ed4-e422-4432-ab4b-36578960e6b2",
@@ -3245,21 +3260,6 @@
       "url": "https://www.dreamworkhq.com/job/af00a0ee-54b7-4b3f-8e0e-2044e7afc1ec?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "a606d77d-2d17-4a60-960b-2f9cdd6ae49a",
-      "title": "Security Engineer",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Seattle, WA, United States",
-      "remoteType": "remote",
-      "salaryMin": 125000,
-      "salaryMax": 148000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T21:21:48.471Z",
-      "firstIndexedAt": "2026-08-21T06:00:41.298Z",
-      "url": "https://www.dreamworkhq.com/job/a606d77d-2d17-4a60-960b-2f9cdd6ae49a?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "e9aa8a12-6b95-4637-b29e-5814642dad35",
       "title": "Cyber Security Engineer",
       "company": "LLNL",
@@ -3290,21 +3290,6 @@
       "url": "https://www.dreamworkhq.com/job/7db9985e-334f-4fd4-958f-859f75bc485c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "d46f683c-995b-4f6f-9296-7ff548f46058",
-      "title": "Junior Open Architecture Cyber Security Scientist",
-      "company": "Riverside Research",
-      "companyDomain": "riversideresearch.org",
-      "location": "Beavercreek, OH, US",
-      "remoteType": null,
-      "salaryMin": 75000,
-      "salaryMax": 85000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T04:00:00.000Z",
-      "firstIndexedAt": "2026-08-21T05:46:00.665Z",
-      "url": "https://www.dreamworkhq.com/job/d46f683c-995b-4f6f-9296-7ff548f46058?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "9af96920-781c-402c-acfd-34916ea8909f",
       "title": "2027 Cyber Scientist Internship",
       "company": "Riverside Research",
@@ -3318,6 +3303,21 @@
       "postedAt": "2026-08-20T04:00:00.000Z",
       "firstIndexedAt": "2026-08-21T05:46:00.665Z",
       "url": "https://www.dreamworkhq.com/job/9af96920-781c-402c-acfd-34916ea8909f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "d46f683c-995b-4f6f-9296-7ff548f46058",
+      "title": "Junior Open Architecture Cyber Security Scientist",
+      "company": "Riverside Research",
+      "companyDomain": "riversideresearch.org",
+      "location": "Beavercreek, OH, US",
+      "remoteType": null,
+      "salaryMin": 75000,
+      "salaryMax": 85000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T04:00:00.000Z",
+      "firstIndexedAt": "2026-08-21T05:46:00.665Z",
+      "url": "https://www.dreamworkhq.com/job/d46f683c-995b-4f6f-9296-7ff548f46058?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "2cfdeb84-6b8c-4732-ad96-923958f495a2",
@@ -3440,21 +3440,6 @@
       "url": "https://www.dreamworkhq.com/job/6d25de0e-0e02-4ad3-90d5-6f901eaeeddb?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "31331532-d6f2-4a2e-9677-83239bf86f11",
-      "title": "Security Specialist I/II",
-      "company": "Prosync",
-      "companyDomain": "prosync.com",
-      "location": "Port Hueneme, California, United States",
-      "remoteType": "onsite",
-      "salaryMin": 75000,
-      "salaryMax": 110000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-17T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-21T05:02:40.391Z",
-      "url": "https://www.dreamworkhq.com/job/31331532-d6f2-4a2e-9677-83239bf86f11?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "0b0b9cce-f148-4654-bb2a-9e8e1a4678dd",
       "title": "Security Specialist I",
       "company": "Prosync",
@@ -3468,6 +3453,21 @@
       "postedAt": "2026-08-17T00:00:00.000Z",
       "firstIndexedAt": "2026-08-21T05:02:40.391Z",
       "url": "https://www.dreamworkhq.com/job/0b0b9cce-f148-4654-bb2a-9e8e1a4678dd?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "e493243a-525c-4187-9cfa-feba61b77251",
+      "title": "Security Specialist II/III",
+      "company": "Prosync",
+      "companyDomain": "prosync.com",
+      "location": "Port Hueneme, California, United States",
+      "remoteType": "onsite",
+      "salaryMin": 100000,
+      "salaryMax": 125000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-21T05:02:40.391Z",
+      "url": "https://www.dreamworkhq.com/job/e493243a-525c-4187-9cfa-feba61b77251?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "86030d6d-9487-406e-8070-849b5d9346d0",
@@ -3575,19 +3575,19 @@
       "url": "https://www.dreamworkhq.com/job/74f257c5-6ee5-48f9-b2ce-269512db3d82?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "b3f8cba4-650b-4aa9-a8e7-8976cc09da8b",
-      "title": "Principal OT Security Engineer",
+      "id": "6c2b03dc-acb3-4512-8221-1de2dc7ac61e",
+      "title": "Senior OT Security Engineer",
       "company": "Donaldson",
       "companyDomain": "donaldson.com",
-      "location": "Bloomington, MN (USA)",
-      "remoteType": "hybrid",
-      "salaryMin": 111840,
-      "salaryMax": 139800,
-      "salaryPeriod": "annual",
+      "location": "Leuven",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T23:16:39.521Z",
+      "postedAt": "2026-08-19T23:16:39.577Z",
       "firstIndexedAt": "2026-08-21T04:32:50.905Z",
-      "url": "https://www.dreamworkhq.com/job/b3f8cba4-650b-4aa9-a8e7-8976cc09da8b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/6c2b03dc-acb3-4512-8221-1de2dc7ac61e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "929f7164-9623-43e0-bae4-411711a4a55b",
@@ -3605,6 +3605,21 @@
       "url": "https://www.dreamworkhq.com/job/929f7164-9623-43e0-bae4-411711a4a55b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "b3f8cba4-650b-4aa9-a8e7-8976cc09da8b",
+      "title": "Principal OT Security Engineer",
+      "company": "Donaldson",
+      "companyDomain": "donaldson.com",
+      "location": "Bloomington, MN (USA)",
+      "remoteType": "hybrid",
+      "salaryMin": 111840,
+      "salaryMax": 139800,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T23:16:39.521Z",
+      "firstIndexedAt": "2026-08-21T04:32:50.905Z",
+      "url": "https://www.dreamworkhq.com/job/b3f8cba4-650b-4aa9-a8e7-8976cc09da8b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "661e19c9-cfb1-40ae-9381-694f6a57be79",
       "title": "Product Security Lead",
       "company": "Donaldson",
@@ -3618,21 +3633,6 @@
       "postedAt": "2026-08-12T23:16:39.670Z",
       "firstIndexedAt": "2026-08-21T04:32:50.905Z",
       "url": "https://www.dreamworkhq.com/job/661e19c9-cfb1-40ae-9381-694f6a57be79?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "6c2b03dc-acb3-4512-8221-1de2dc7ac61e",
-      "title": "Senior OT Security Engineer",
-      "company": "Donaldson",
-      "companyDomain": "donaldson.com",
-      "location": "Leuven",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T23:16:39.577Z",
-      "firstIndexedAt": "2026-08-21T04:32:50.905Z",
-      "url": "https://www.dreamworkhq.com/job/6c2b03dc-acb3-4512-8221-1de2dc7ac61e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "6aca23ee-eb8f-4261-80d7-5e1289dbef4b",
@@ -3815,21 +3815,6 @@
       "url": "https://www.dreamworkhq.com/job/12f1be32-f61a-4d41-8c5c-7873d57c5e6e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "34e07e8e-60d5-4689-96c7-120225abbe60",
-      "title": "Cyber Professional Continuing Education Instructor - EX - 1.4.5",
-      "company": "Credence",
-      "companyDomain": "credence.ai",
-      "location": "Wright-Patterson AFB, Ohio, United States",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-21T02:15:18.896Z",
-      "url": "https://www.dreamworkhq.com/job/34e07e8e-60d5-4689-96c7-120225abbe60?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "13a82953-6a03-43ab-8448-477d0bea384c",
       "title": "Cybersecurity SME - Lead (Cyber Tools)",
       "company": "Credence",
@@ -3843,6 +3828,21 @@
       "postedAt": "2026-08-18T00:00:00.000Z",
       "firstIndexedAt": "2026-08-21T02:15:18.896Z",
       "url": "https://www.dreamworkhq.com/job/13a82953-6a03-43ab-8448-477d0bea384c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "34e07e8e-60d5-4689-96c7-120225abbe60",
+      "title": "Cyber Professional Continuing Education Instructor - EX - 1.4.5",
+      "company": "Credence",
+      "companyDomain": "credence.ai",
+      "location": "Wright-Patterson AFB, Ohio, United States",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-18T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-21T02:15:18.896Z",
+      "url": "https://www.dreamworkhq.com/job/34e07e8e-60d5-4689-96c7-120225abbe60?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "e3efe2bf-72f7-4f1c-97db-9673ccfbf61c",
@@ -3875,21 +3875,6 @@
       "url": "https://www.dreamworkhq.com/job/cdb9c6c3-2ad1-48eb-8240-57899f9709a0?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "54e7bfa5-b382-4c10-aa81-65760be80547",
-      "title": "Cyber Functional Analyst - Senior",
-      "company": "American Systems",
-      "companyDomain": "americansystems.com",
-      "location": "Ft George G Meade, MD, US",
-      "remoteType": "onsite",
-      "salaryMin": 170000,
-      "salaryMax": 190000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T04:00:00.000Z",
-      "firstIndexedAt": "2026-08-21T02:00:35.954Z",
-      "url": "https://www.dreamworkhq.com/job/54e7bfa5-b382-4c10-aa81-65760be80547?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "8cbf62cc-c076-4ddd-ab6e-71dc29f74351",
       "title": "Security Specialist",
       "company": "American Systems",
@@ -3903,6 +3888,21 @@
       "postedAt": "2026-08-20T04:00:00.000Z",
       "firstIndexedAt": "2026-08-21T02:00:35.954Z",
       "url": "https://www.dreamworkhq.com/job/8cbf62cc-c076-4ddd-ab6e-71dc29f74351?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "54e7bfa5-b382-4c10-aa81-65760be80547",
+      "title": "Cyber Functional Analyst - Senior",
+      "company": "American Systems",
+      "companyDomain": "americansystems.com",
+      "location": "Ft George G Meade, MD, US",
+      "remoteType": "onsite",
+      "salaryMin": 170000,
+      "salaryMax": 190000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T04:00:00.000Z",
+      "firstIndexedAt": "2026-08-21T02:00:35.954Z",
+      "url": "https://www.dreamworkhq.com/job/54e7bfa5-b382-4c10-aa81-65760be80547?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "bbe0f373-c82e-4bb2-b9c1-56f02217fc70",
@@ -3950,21 +3950,6 @@
       "url": "https://www.dreamworkhq.com/job/48cccd66-9c5a-49cf-ab90-889f62aeb755?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "1de4b947-1b69-4c12-85a8-23b9f73cbdb5",
-      "title": "Security Engineer – Vulnerability Management & AI-Driven Security Operations (f/m/div.)",
-      "company": "Bosch",
-      "companyDomain": "bosch.com",
-      "location": "Braga, , Portugal",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-20T13:04:39.258Z",
-      "firstIndexedAt": "2026-08-21T01:32:29.565Z",
-      "url": "https://www.dreamworkhq.com/job/1de4b947-1b69-4c12-85a8-23b9f73cbdb5?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "8fa60284-82ab-46e2-bb91-f9cff260d0c4",
       "title": "Academic Internship in Corporate Governance Information Security & Data Protection (f/m/div.)",
       "company": "Bosch",
@@ -3978,6 +3963,21 @@
       "postedAt": "2026-08-20T15:40:28.637Z",
       "firstIndexedAt": "2026-08-21T01:32:29.565Z",
       "url": "https://www.dreamworkhq.com/job/8fa60284-82ab-46e2-bb91-f9cff260d0c4?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "1de4b947-1b69-4c12-85a8-23b9f73cbdb5",
+      "title": "Security Engineer – Vulnerability Management & AI-Driven Security Operations (f/m/div.)",
+      "company": "Bosch",
+      "companyDomain": "bosch.com",
+      "location": "Braga, , Portugal",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-20T13:04:39.258Z",
+      "firstIndexedAt": "2026-08-21T01:32:29.565Z",
+      "url": "https://www.dreamworkhq.com/job/1de4b947-1b69-4c12-85a8-23b9f73cbdb5?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "497a2b9c-b448-42f0-b4ae-e364d2103475",
@@ -4070,21 +4070,6 @@
       "url": "https://www.dreamworkhq.com/job/3dc4925f-20d5-4404-91c1-048e2694effe?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "991e1e27-1246-4b4f-ad40-14cf2b1ac9a7",
-      "title": "Senior SecOps Engineer II",
-      "company": "O9solutions",
-      "companyDomain": "o9solutions.com",
-      "location": "Bangalore, Karnataka, India",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T04:17:50.411Z",
-      "firstIndexedAt": "2026-08-20T23:39:21.400Z",
-      "url": "https://www.dreamworkhq.com/job/991e1e27-1246-4b4f-ad40-14cf2b1ac9a7?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "2c9c6138-5e84-4de5-a069-9a3ec43aecca",
       "title": "SecOps Architect I",
       "company": "O9solutions",
@@ -4100,6 +4085,21 @@
       "url": "https://www.dreamworkhq.com/job/2c9c6138-5e84-4de5-a069-9a3ec43aecca?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "991e1e27-1246-4b4f-ad40-14cf2b1ac9a7",
+      "title": "Senior SecOps Engineer II",
+      "company": "O9solutions",
+      "companyDomain": "o9solutions.com",
+      "location": "Bangalore, Karnataka, India",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T04:17:50.411Z",
+      "firstIndexedAt": "2026-08-20T23:39:21.400Z",
+      "url": "https://www.dreamworkhq.com/job/991e1e27-1246-4b4f-ad40-14cf2b1ac9a7?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "243ed366-2428-46d0-abb6-9b19ac0b96f1",
       "title": "Technical Business Analyst - Cyber Security Transformation (London)",
       "company": "Rbcglobal1",
@@ -4110,7 +4110,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T18:24:10.050Z",
+      "postedAt": "2026-08-20T23:34:14.176Z",
       "firstIndexedAt": "2026-08-20T23:36:45.841Z",
       "url": "https://www.dreamworkhq.com/job/243ed366-2428-46d0-abb6-9b19ac0b96f1?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -4125,7 +4125,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-21T18:24:09.144Z",
+      "postedAt": "2026-08-21T23:34:13.281Z",
       "firstIndexedAt": "2026-08-20T23:36:45.841Z",
       "url": "https://www.dreamworkhq.com/job/ff6edcf4-64b4-43ed-8d3d-f1ad5b675606?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -4140,7 +4140,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T18:24:09.335Z",
+      "postedAt": "2026-08-20T23:34:13.777Z",
       "firstIndexedAt": "2026-08-20T23:36:45.841Z",
       "url": "https://www.dreamworkhq.com/job/61cd19d6-f6cc-4aad-aa93-a6a4bda3c572?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -4175,21 +4175,6 @@
       "url": "https://www.dreamworkhq.com/job/4e6f7ba2-f27d-49f9-88fb-7d8c200dae80?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "87314591-b6cb-4979-8ebd-2da29c33a26c",
-      "title": "Security Operations Center (SOC) Operator",
-      "company": "Lucasmuseum",
-      "companyDomain": "lucasmuseum.org",
-      "location": "Los Angeles",
-      "remoteType": "onsite",
-      "salaryMin": 52000,
-      "salaryMax": 58240,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T16:38:15.522Z",
-      "firstIndexedAt": "2026-08-20T23:00:32.806Z",
-      "url": "https://www.dreamworkhq.com/job/87314591-b6cb-4979-8ebd-2da29c33a26c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "bc824191-2316-4ebd-b4d2-f298783395ca",
       "title": "Manager, Security Operations",
       "company": "Lucasmuseum",
@@ -4203,6 +4188,21 @@
       "postedAt": "2026-08-20T18:49:52.929Z",
       "firstIndexedAt": "2026-08-20T23:00:32.806Z",
       "url": "https://www.dreamworkhq.com/job/bc824191-2316-4ebd-b4d2-f298783395ca?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "87314591-b6cb-4979-8ebd-2da29c33a26c",
+      "title": "Security Operations Center (SOC) Operator",
+      "company": "Lucasmuseum",
+      "companyDomain": "lucasmuseum.org",
+      "location": "Los Angeles",
+      "remoteType": "onsite",
+      "salaryMin": 52000,
+      "salaryMax": 58240,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T16:38:15.522Z",
+      "firstIndexedAt": "2026-08-20T23:00:32.806Z",
+      "url": "https://www.dreamworkhq.com/job/87314591-b6cb-4979-8ebd-2da29c33a26c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "dea3bf33-ce69-4440-a195-ab26f364a5e3",
@@ -4355,7 +4355,7 @@
       "url": "https://www.dreamworkhq.com/job/378397d5-1957-4a1b-ae53-75d21d4b3410?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "fe1d6416-9dd3-4c1d-8624-0379709af851",
+      "id": "9e497b4b-c7ee-4bb8-90fd-8270fd8be8e6",
       "title": "Comcast Cybersecurity: Cryptography Cyber Security Engineer",
       "company": "Comcast",
       "companyDomain": "comcast.com",
@@ -4365,9 +4365,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T21:14:18.833Z",
+      "postedAt": "2026-08-20T21:14:18.980Z",
       "firstIndexedAt": "2026-08-20T21:26:35.701Z",
-      "url": "https://www.dreamworkhq.com/job/fe1d6416-9dd3-4c1d-8624-0379709af851?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/9e497b4b-c7ee-4bb8-90fd-8270fd8be8e6?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "7d2be3c0-a483-44b7-8650-a96a2c18e5a7",
@@ -4458,6 +4458,21 @@
       "postedAt": "2026-08-20T09:29:29.003Z",
       "firstIndexedAt": "2026-08-20T20:02:31.923Z",
       "url": "https://www.dreamworkhq.com/job/44f1b76e-d47a-42e9-a412-3321da652e0e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "da2a2b42-84fe-4d18-aea5-2bb37ab4555f",
+      "title": "Identity and Access Management Specialist, Senior",
+      "company": "Booz Allen Hamilton",
+      "companyDomain": "boozallen.com",
+      "location": "Washington, DC",
+      "remoteType": "hybrid",
+      "salaryMin": 86800,
+      "salaryMax": 198000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T09:29:30.326Z",
+      "firstIndexedAt": "2026-08-20T20:02:31.923Z",
+      "url": "https://www.dreamworkhq.com/job/da2a2b42-84fe-4d18-aea5-2bb37ab4555f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "f3c5e609-6500-40f7-ac53-a1a778a75d7f",
@@ -4835,36 +4850,6 @@
       "url": "https://www.dreamworkhq.com/job/33ed1f41-615c-46a3-85af-95032e49d44c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "c513a637-300a-48d3-9faa-72d0fb52db7d",
-      "title": "Engineer 2 - Cyber Security Engineering",
-      "company": "Comcast",
-      "companyDomain": "comcast.com",
-      "location": "India - Chennai, Comcast India Engineering Cent",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T21:14:20.485Z",
-      "firstIndexedAt": "2026-08-20T17:20:37.167Z",
-      "url": "https://www.dreamworkhq.com/job/c513a637-300a-48d3-9faa-72d0fb52db7d?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "5143db42-8fb9-41f4-b99c-7c274dc544c4",
-      "title": "Engineer 4 - Cyber Security",
-      "company": "Comcast",
-      "companyDomain": "comcast.com",
-      "location": "India - Chennai, Comcast India Engineering Cent",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T16:06:47.813Z",
-      "firstIndexedAt": "2026-08-20T17:20:37.167Z",
-      "url": "https://www.dreamworkhq.com/job/5143db42-8fb9-41f4-b99c-7c274dc544c4?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "a040ec5e-0c40-434f-a60a-0c14d6d97e8f",
       "title": "Engineer 3 - Cyber Security Engineering",
       "company": "Comcast",
@@ -4895,6 +4880,36 @@
       "url": "https://www.dreamworkhq.com/job/1fef7c5c-f36f-4189-b935-6eb982b28430?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "5143db42-8fb9-41f4-b99c-7c274dc544c4",
+      "title": "Engineer 4 - Cyber Security",
+      "company": "Comcast",
+      "companyDomain": "comcast.com",
+      "location": "India - Chennai, Comcast India Engineering Cent",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T16:06:47.813Z",
+      "firstIndexedAt": "2026-08-20T17:20:37.167Z",
+      "url": "https://www.dreamworkhq.com/job/5143db42-8fb9-41f4-b99c-7c274dc544c4?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "c513a637-300a-48d3-9faa-72d0fb52db7d",
+      "title": "Engineer 2 - Cyber Security Engineering",
+      "company": "Comcast",
+      "companyDomain": "comcast.com",
+      "location": "India - Chennai, Comcast India Engineering Cent",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T21:14:20.485Z",
+      "firstIndexedAt": "2026-08-20T17:20:37.167Z",
+      "url": "https://www.dreamworkhq.com/job/c513a637-300a-48d3-9faa-72d0fb52db7d?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "e22a31fd-4208-4e95-90c5-35177b5f90ff",
       "title": "Security Administrator",
       "company": "Northern Gas",
@@ -4908,21 +4923,6 @@
       "postedAt": "2026-08-20T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T17:08:03.089Z",
       "url": "https://www.dreamworkhq.com/job/e22a31fd-4208-4e95-90c5-35177b5f90ff?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "778bf145-ae88-47c3-8244-e81ae24b593c",
-      "title": "IT Solution Architect IAM, SOC & IT Perimeter",
-      "company": "EURES Netherlands (Professional)",
-      "companyDomain": "continu.nl",
-      "location": "Netherlands",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T01:12:30.845Z",
-      "firstIndexedAt": "2026-08-20T17:06:43.437Z",
-      "url": "https://www.dreamworkhq.com/job/778bf145-ae88-47c3-8244-e81ae24b593c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "ed2664b1-9ac8-451c-92b6-490b1b36a49c",
@@ -4940,19 +4940,34 @@
       "url": "https://www.dreamworkhq.com/job/ed2664b1-9ac8-451c-92b6-490b1b36a49c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "f292495e-bf49-42c2-9d15-6e9f9ec0b371",
-      "title": "Cybersecurity Systems Engineer/Information Systems Security Engineer (ISSE) - TS/SCI with Polygraph",
+      "id": "778bf145-ae88-47c3-8244-e81ae24b593c",
+      "title": "IT Solution Architect IAM, SOC & IT Perimeter",
+      "company": "EURES Netherlands (Professional)",
+      "companyDomain": "continu.nl",
+      "location": "Netherlands",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T01:12:30.845Z",
+      "firstIndexedAt": "2026-08-20T17:06:43.437Z",
+      "url": "https://www.dreamworkhq.com/job/778bf145-ae88-47c3-8244-e81ae24b593c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "2fab3b27-0bc8-4560-8816-ad0a9db460e9",
+      "title": "Information Security Sr. Principal (Azure Security Senior Engineer)",
       "company": "Gdit",
       "companyDomain": "gdit.com",
       "location": "USA DC Washington",
-      "remoteType": "onsite",
-      "salaryMin": 144500,
-      "salaryMax": 195500,
+      "remoteType": "hybrid",
+      "salaryMin": 148750,
+      "salaryMax": 201250,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T09:32:23.204Z",
+      "postedAt": "2026-08-20T09:32:22.883Z",
       "firstIndexedAt": "2026-08-20T16:55:41.882Z",
-      "url": "https://www.dreamworkhq.com/job/f292495e-bf49-42c2-9d15-6e9f9ec0b371?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/2fab3b27-0bc8-4560-8816-ad0a9db460e9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "25696076-5124-4277-a239-7a22896df7e6",
@@ -4968,6 +4983,21 @@
       "postedAt": "2026-08-20T09:32:23.437Z",
       "firstIndexedAt": "2026-08-20T16:55:41.882Z",
       "url": "https://www.dreamworkhq.com/job/25696076-5124-4277-a239-7a22896df7e6?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "f292495e-bf49-42c2-9d15-6e9f9ec0b371",
+      "title": "Cybersecurity Systems Engineer/Information Systems Security Engineer (ISSE) - TS/SCI with Polygraph",
+      "company": "Gdit",
+      "companyDomain": "gdit.com",
+      "location": "USA DC Washington",
+      "remoteType": "onsite",
+      "salaryMin": 144500,
+      "salaryMax": 195500,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T09:32:23.204Z",
+      "firstIndexedAt": "2026-08-20T16:55:41.882Z",
+      "url": "https://www.dreamworkhq.com/job/f292495e-bf49-42c2-9d15-6e9f9ec0b371?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "f45401d9-0604-4897-98ba-074af312886d",
@@ -5000,21 +5030,6 @@
       "url": "https://www.dreamworkhq.com/job/39d60acd-96b7-479f-add3-838016f3f81a?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "05c47beb-a759-49d2-95d1-25dde958d475",
-      "title": "Application Security Engineer",
-      "company": "Shawbrook",
-      "companyDomain": "shawbrook.co.uk",
-      "location": "Manchester, England, United Kingdom",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-05-05T09:25:07.695Z",
-      "firstIndexedAt": "2026-08-20T16:44:09.640Z",
-      "url": "https://www.dreamworkhq.com/job/05c47beb-a759-49d2-95d1-25dde958d475?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "5ab82210-84f6-49de-82b3-f4da03f35ce8",
       "title": "Application Security Engineer",
       "company": "Shawbrook",
@@ -5028,6 +5043,21 @@
       "postedAt": "2026-05-05T09:24:12.886Z",
       "firstIndexedAt": "2026-08-20T16:44:09.640Z",
       "url": "https://www.dreamworkhq.com/job/5ab82210-84f6-49de-82b3-f4da03f35ce8?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "05c47beb-a759-49d2-95d1-25dde958d475",
+      "title": "Application Security Engineer",
+      "company": "Shawbrook",
+      "companyDomain": "shawbrook.co.uk",
+      "location": "Manchester, England, United Kingdom",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-05-05T09:25:07.695Z",
+      "firstIndexedAt": "2026-08-20T16:44:09.640Z",
+      "url": "https://www.dreamworkhq.com/job/05c47beb-a759-49d2-95d1-25dde958d475?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "bf3ef6cd-d374-4456-bbf1-4049e12d2bc8",
@@ -5045,21 +5075,6 @@
       "url": "https://www.dreamworkhq.com/job/bf3ef6cd-d374-4456-bbf1-4049e12d2bc8?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "b79fe5cd-0b8b-4f2c-8e56-c5720eea6bda",
-      "title": "Cyber Security Security Control Assessor",
-      "company": "LLNL",
-      "companyDomain": "llnl.gov",
-      "location": "Livermore, CA, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 121830,
-      "salaryMax": 185544,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T00:34:37.240Z",
-      "firstIndexedAt": "2026-08-20T16:43:46.566Z",
-      "url": "https://www.dreamworkhq.com/job/b79fe5cd-0b8b-4f2c-8e56-c5720eea6bda?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "2933c405-6008-43b5-ac24-ea83d322c021",
       "title": "Senior Cybersecurity Reverse Engineer",
       "company": "LLNL",
@@ -5075,19 +5090,19 @@
       "url": "https://www.dreamworkhq.com/job/2933c405-6008-43b5-ac24-ea83d322c021?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "89a03544-2387-48a9-a00d-265acf39bd8f",
-      "title": "Security Researcher",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Tel Aviv/ Hybrid (Israel), , Israel",
+      "id": "b79fe5cd-0b8b-4f2c-8e56-c5720eea6bda",
+      "title": "Cyber Security Security Control Assessor",
+      "company": "LLNL",
+      "companyDomain": "llnl.gov",
+      "location": "Livermore, CA, United States",
       "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-16T06:09:06.919Z",
-      "firstIndexedAt": "2026-08-20T16:43:43.592Z",
-      "url": "https://www.dreamworkhq.com/job/89a03544-2387-48a9-a00d-265acf39bd8f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "salaryMin": 121830,
+      "salaryMax": 185544,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-18T00:34:37.240Z",
+      "firstIndexedAt": "2026-08-20T16:43:46.566Z",
+      "url": "https://www.dreamworkhq.com/job/b79fe5cd-0b8b-4f2c-8e56-c5720eea6bda?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "b4f23946-6259-4aca-b0d0-62771e1f3422",
@@ -5105,6 +5120,21 @@
       "url": "https://www.dreamworkhq.com/job/b4f23946-6259-4aca-b0d0-62771e1f3422?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "bbdeb4a8-ce6a-47b2-8e96-7d8b51b1e5e0",
+      "title": "Security Engineer, Workspace Security",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Athens, , Greece",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-12T14:33:51.447Z",
+      "firstIndexedAt": "2026-08-20T16:43:43.592Z",
+      "url": "https://www.dreamworkhq.com/job/bbdeb4a8-ce6a-47b2-8e96-7d8b51b1e5e0?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "6080d2cf-c8e7-4c70-8e4d-b1200cd1c106",
       "title": "Cyber Threat Intelligence Analyst UK",
       "company": "CheckPointSoftwareTechnologies2",
@@ -5118,6 +5148,21 @@
       "postedAt": "2026-07-12T14:34:21.007Z",
       "firstIndexedAt": "2026-08-20T16:43:43.592Z",
       "url": "https://www.dreamworkhq.com/job/6080d2cf-c8e7-4c70-8e4d-b1200cd1c106?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "89a03544-2387-48a9-a00d-265acf39bd8f",
+      "title": "Security Researcher",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Tel Aviv/ Hybrid (Israel), , Israel",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-16T06:09:06.919Z",
+      "firstIndexedAt": "2026-08-20T16:43:43.592Z",
+      "url": "https://www.dreamworkhq.com/job/89a03544-2387-48a9-a00d-265acf39bd8f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "a0b9f55f-1b21-4718-b173-3fcc7ab1eb05",
@@ -5135,34 +5180,34 @@
       "url": "https://www.dreamworkhq.com/job/a0b9f55f-1b21-4718-b173-3fcc7ab1eb05?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "bbdeb4a8-ce6a-47b2-8e96-7d8b51b1e5e0",
-      "title": "Security Engineer, Workspace Security",
+      "id": "a2fe8068-222c-4059-bcee-b45c25ed4202",
+      "title": "Managed Services Consultant, Network Security",
       "company": "CheckPointSoftwareTechnologies2",
       "companyDomain": "checkpoint.com",
-      "location": "Athens, , Greece",
+      "location": "Dallas, TX, United States",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-12T14:33:51.447Z",
-      "firstIndexedAt": "2026-08-20T16:43:43.592Z",
-      "url": "https://www.dreamworkhq.com/job/bbdeb4a8-ce6a-47b2-8e96-7d8b51b1e5e0?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "postedAt": "2026-07-17T18:41:58.614Z",
+      "firstIndexedAt": "2026-08-20T16:43:40.690Z",
+      "url": "https://www.dreamworkhq.com/job/a2fe8068-222c-4059-bcee-b45c25ed4202?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "311082a4-307f-42ad-9288-d7f6bef33349",
-      "title": "Managed Services Consultant, Network Security - Night Shift Sat.",
+      "id": "d56c067e-4b35-46c3-8407-ddb4a10baf0b",
+      "title": "Information Security Manager at Harmony SASE",
       "company": "CheckPointSoftwareTechnologies2",
       "companyDomain": "checkpoint.com",
-      "location": "Irving, TX, United States",
+      "location": "Tel Aviv/ Hybrid (Israel), , Israel",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-17T18:42:59.210Z",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-16T06:58:02.473Z",
       "firstIndexedAt": "2026-08-20T16:43:40.690Z",
-      "url": "https://www.dreamworkhq.com/job/311082a4-307f-42ad-9288-d7f6bef33349?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/d56c067e-4b35-46c3-8407-ddb4a10baf0b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "610f5477-92e2-48d5-abf0-21d2bd836db7",
@@ -5180,21 +5225,6 @@
       "url": "https://www.dreamworkhq.com/job/610f5477-92e2-48d5-abf0-21d2bd836db7?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "4b4f70d3-ab75-4438-adf0-6a62f93d8b56",
-      "title": "Security Engineer",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Sao Paulo, , Brazil",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-16T15:35:48.570Z",
-      "firstIndexedAt": "2026-08-20T16:43:40.690Z",
-      "url": "https://www.dreamworkhq.com/job/4b4f70d3-ab75-4438-adf0-6a62f93d8b56?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "5db6e948-a0b8-4b4e-9624-bfc6a362e18d",
       "title": "Senior Security Researcher - Digital Forensics Expert",
       "company": "CheckPointSoftwareTechnologies2",
@@ -5210,109 +5240,19 @@
       "url": "https://www.dreamworkhq.com/job/5db6e948-a0b8-4b4e-9624-bfc6a362e18d?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "a2fe8068-222c-4059-bcee-b45c25ed4202",
-      "title": "Managed Services Consultant, Network Security",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Dallas, TX, United States",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-17T18:41:58.614Z",
-      "firstIndexedAt": "2026-08-20T16:43:40.690Z",
-      "url": "https://www.dreamworkhq.com/job/a2fe8068-222c-4059-bcee-b45c25ed4202?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "663239d5-082c-4570-84fe-50a5a3fbe673",
-      "title": "Security Engineer (North Carolina)",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Charlotte, NC, United States",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-27T21:45:13.092Z",
-      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
-      "url": "https://www.dreamworkhq.com/job/663239d5-082c-4570-84fe-50a5a3fbe673?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "4577d73f-9131-451c-9a99-1204121492b5",
-      "title": "Security Engineer, Workspace Security",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Munich, , Germany",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-26T12:03:29.853Z",
-      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
-      "url": "https://www.dreamworkhq.com/job/4577d73f-9131-451c-9a99-1204121492b5?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "0183eb3b-87d9-4be9-98d7-eecbf526662d",
-      "title": "Cyber Threat Remediation Analyst",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Manila, NCR, Philippines",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-21T11:42:26.663Z",
-      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
-      "url": "https://www.dreamworkhq.com/job/0183eb3b-87d9-4be9-98d7-eecbf526662d?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "e070698a-4c75-4d49-915e-89465f6c355f",
+      "id": "4b4f70d3-ab75-4438-adf0-6a62f93d8b56",
       "title": "Security Engineer",
       "company": "CheckPointSoftwareTechnologies2",
       "companyDomain": "checkpoint.com",
-      "location": "Salt Lake City, UT, United States",
+      "location": "Sao Paulo, , Brazil",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-27T18:04:08.143Z",
-      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
-      "url": "https://www.dreamworkhq.com/job/e070698a-4c75-4d49-915e-89465f6c355f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "0fbeeb25-05a6-452b-b159-1e4afbdd7787",
-      "title": "Product Security Engineer ",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Tel Aviv/ Hybrid (Israel), , Israel",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-19T14:08:10.073Z",
-      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
-      "url": "https://www.dreamworkhq.com/job/0fbeeb25-05a6-452b-b159-1e4afbdd7787?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "c8036afa-0542-4d53-8d08-295200fe0ea9",
-      "title": "Security Engineer, Channel Sales",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Washington, DC, United States",
-      "remoteType": "remote",
-      "salaryMin": 92000,
-      "salaryMax": 180000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-17T18:48:36.383Z",
-      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
-      "url": "https://www.dreamworkhq.com/job/c8036afa-0542-4d53-8d08-295200fe0ea9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "postedAt": "2026-07-16T15:35:48.570Z",
+      "firstIndexedAt": "2026-08-20T16:43:40.690Z",
+      "url": "https://www.dreamworkhq.com/job/4b4f70d3-ab75-4438-adf0-6a62f93d8b56?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "e7ea9651-0c5d-4a9d-a9f3-a7bf53df8cf4",
@@ -5330,6 +5270,21 @@
       "url": "https://www.dreamworkhq.com/job/e7ea9651-0c5d-4a9d-a9f3-a7bf53df8cf4?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "e070698a-4c75-4d49-915e-89465f6c355f",
+      "title": "Security Engineer",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Salt Lake City, UT, United States",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-27T18:04:08.143Z",
+      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
+      "url": "https://www.dreamworkhq.com/job/e070698a-4c75-4d49-915e-89465f6c355f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "bba6ec15-a287-4156-a3fd-79e85674f612",
       "title": "Cyber Threat Intelligence Analyst - French speaker",
       "company": "CheckPointSoftwareTechnologies2",
@@ -5345,52 +5300,82 @@
       "url": "https://www.dreamworkhq.com/job/bba6ec15-a287-4156-a3fd-79e85674f612?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "8d8dcd9a-8410-4686-9f4c-3c16298e4b96",
-      "title": "AI Security Engineer, AI Security Unit",
+      "id": "0183eb3b-87d9-4be9-98d7-eecbf526662d",
+      "title": "Cyber Threat Remediation Analyst",
       "company": "CheckPointSoftwareTechnologies2",
       "companyDomain": "checkpoint.com",
-      "location": "Chicago, IL, United States",
+      "location": "Manila, NCR, Philippines",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-03T18:28:18.645Z",
-      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
-      "url": "https://www.dreamworkhq.com/job/8d8dcd9a-8410-4686-9f4c-3c16298e4b96?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-21T11:42:26.663Z",
+      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
+      "url": "https://www.dreamworkhq.com/job/0183eb3b-87d9-4be9-98d7-eecbf526662d?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "f7e18c69-5917-43c6-9456-96c72a2a49d1",
-      "title": "Security Engineer - Kazakhstan",
+      "id": "4577d73f-9131-451c-9a99-1204121492b5",
+      "title": "Security Engineer, Workspace Security",
       "company": "CheckPointSoftwareTechnologies2",
       "companyDomain": "checkpoint.com",
-      "location": "Astana, ASTANA, Kazakhstan",
+      "location": "Munich, , Germany",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-02T06:23:44.814Z",
-      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
-      "url": "https://www.dreamworkhq.com/job/f7e18c69-5917-43c6-9456-96c72a2a49d1?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "postedAt": "2026-07-26T12:03:29.853Z",
+      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
+      "url": "https://www.dreamworkhq.com/job/4577d73f-9131-451c-9a99-1204121492b5?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "ae765b7a-2189-4130-8840-f8ef5e7e4364",
-      "title": "Security Engineer, SLED",
+      "id": "c8036afa-0542-4d53-8d08-295200fe0ea9",
+      "title": "Security Engineer, Channel Sales",
       "company": "CheckPointSoftwareTechnologies2",
       "companyDomain": "checkpoint.com",
-      "location": "Philadelphia, PA, United States",
+      "location": "Washington, DC, United States",
+      "remoteType": "remote",
+      "salaryMin": 92000,
+      "salaryMax": 180000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-17T18:48:36.383Z",
+      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
+      "url": "https://www.dreamworkhq.com/job/c8036afa-0542-4d53-8d08-295200fe0ea9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "0fbeeb25-05a6-452b-b159-1e4afbdd7787",
+      "title": "Product Security Engineer ",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Tel Aviv/ Hybrid (Israel), , Israel",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-19T14:08:10.073Z",
+      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
+      "url": "https://www.dreamworkhq.com/job/0fbeeb25-05a6-452b-b159-1e4afbdd7787?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "663239d5-082c-4570-84fe-50a5a3fbe673",
+      "title": "Security Engineer (North Carolina)",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Charlotte, NC, United States",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-31T22:38:46.196Z",
-      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
-      "url": "https://www.dreamworkhq.com/job/ae765b7a-2189-4130-8840-f8ef5e7e4364?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "postedAt": "2026-07-27T21:45:13.092Z",
+      "firstIndexedAt": "2026-08-20T16:43:38.781Z",
+      "url": "https://www.dreamworkhq.com/job/663239d5-082c-4570-84fe-50a5a3fbe673?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "40ac6cd2-3836-455e-9aa8-edd8406b2b19",
+      "id": "39c070d7-04fd-4bc8-8ef1-8167b8d67dc0",
       "title": "Managed Services Consultant, Network Security",
       "company": "CheckPointSoftwareTechnologies2",
       "companyDomain": "checkpoint.com",
@@ -5400,54 +5385,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T14:01:33.723Z",
+      "postedAt": "2026-08-05T18:25:07.299Z",
       "firstIndexedAt": "2026-08-20T16:43:36.961Z",
-      "url": "https://www.dreamworkhq.com/job/40ac6cd2-3836-455e-9aa8-edd8406b2b19?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "8f9003b0-995e-4f16-92d6-e3ae348ab0cb",
-      "title": "AI Security Engineer, AI Security Unit",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "San Francisco, CA, United States",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-03T18:26:47.950Z",
-      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
-      "url": "https://www.dreamworkhq.com/job/8f9003b0-995e-4f16-92d6-e3ae348ab0cb?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "3531d75f-836f-4392-8189-e69056622236",
-      "title": "Security Engineer",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Vancouver, WA, United States",
-      "remoteType": "remote",
-      "salaryMin": 168000,
-      "salaryMax": 198000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-03T18:34:40.264Z",
-      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
-      "url": "https://www.dreamworkhq.com/job/3531d75f-836f-4392-8189-e69056622236?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "7629ecb9-e5c1-4d94-a598-72989efdd70c",
-      "title": "Security Engineer, SLED",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Dover, DE, United States",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-31T22:38:02.238Z",
-      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
-      "url": "https://www.dreamworkhq.com/job/7629ecb9-e5c1-4d94-a598-72989efdd70c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/39c070d7-04fd-4bc8-8ef1-8167b8d67dc0?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "ee298727-ad6e-4d65-a557-f6beb8cad39a",
@@ -5465,19 +5405,19 @@
       "url": "https://www.dreamworkhq.com/job/ee298727-ad6e-4d65-a557-f6beb8cad39a?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "ccdbc833-937f-4f34-94ca-c7e91f33f848",
+      "id": "8f9003b0-995e-4f16-92d6-e3ae348ab0cb",
       "title": "AI Security Engineer, AI Security Unit",
       "company": "CheckPointSoftwareTechnologies2",
       "companyDomain": "checkpoint.com",
-      "location": "Seattle, WA, United States",
+      "location": "San Francisco, CA, United States",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-03T18:22:35.791Z",
+      "postedAt": "2026-08-03T18:26:47.950Z",
       "firstIndexedAt": "2026-08-20T16:43:36.961Z",
-      "url": "https://www.dreamworkhq.com/job/ccdbc833-937f-4f34-94ca-c7e91f33f848?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/8f9003b0-995e-4f16-92d6-e3ae348ab0cb?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "8dcff42c-dda6-407c-8f9b-ad6841ac0048",
@@ -5495,19 +5435,109 @@
       "url": "https://www.dreamworkhq.com/job/8dcff42c-dda6-407c-8f9b-ad6841ac0048?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "eeb25cdd-9fab-41b9-9a30-339e8234b5f9",
-      "title": "Cyber Threat Intelligence Analyst",
+      "id": "f7e18c69-5917-43c6-9456-96c72a2a49d1",
+      "title": "Security Engineer - Kazakhstan",
       "company": "CheckPointSoftwareTechnologies2",
       "companyDomain": "checkpoint.com",
-      "location": "Dallas, TX, United States",
+      "location": "Astana, ASTANA, Kazakhstan",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-13T19:10:17.305Z",
-      "firstIndexedAt": "2026-08-20T16:43:34.663Z",
-      "url": "https://www.dreamworkhq.com/job/eeb25cdd-9fab-41b9-9a30-339e8234b5f9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "postedAt": "2026-08-02T06:23:44.814Z",
+      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
+      "url": "https://www.dreamworkhq.com/job/f7e18c69-5917-43c6-9456-96c72a2a49d1?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "218d1fa1-3f41-4c25-a55e-3e7fc0caf276",
+      "title": "Security Engineer, SLED",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Portland, OR, United States",
+      "remoteType": "remote",
+      "salaryMin": 165000,
+      "salaryMax": 200000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-31T22:34:42.383Z",
+      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
+      "url": "https://www.dreamworkhq.com/job/218d1fa1-3f41-4c25-a55e-3e7fc0caf276?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "ae765b7a-2189-4130-8840-f8ef5e7e4364",
+      "title": "Security Engineer, SLED",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Philadelphia, PA, United States",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-31T22:38:46.196Z",
+      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
+      "url": "https://www.dreamworkhq.com/job/ae765b7a-2189-4130-8840-f8ef5e7e4364?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "a2bb9ecd-fdfa-4fd4-b5f8-8e0de84a2699",
+      "title": " AI Security Engineer, AI Security Unit",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Washington, DC, United States",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-03T18:27:53.200Z",
+      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
+      "url": "https://www.dreamworkhq.com/job/a2bb9ecd-fdfa-4fd4-b5f8-8e0de84a2699?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "8d8dcd9a-8410-4686-9f4c-3c16298e4b96",
+      "title": "AI Security Engineer, AI Security Unit",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Chicago, IL, United States",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-03T18:28:18.645Z",
+      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
+      "url": "https://www.dreamworkhq.com/job/8d8dcd9a-8410-4686-9f4c-3c16298e4b96?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "841644b9-b451-46ee-a6c3-d6b0783a4095",
+      "title": "AI Security Engineer, AI Security Unit",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Denver, CO, United States",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-03T18:27:29.059Z",
+      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
+      "url": "https://www.dreamworkhq.com/job/841644b9-b451-46ee-a6c3-d6b0783a4095?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "3531d75f-836f-4392-8189-e69056622236",
+      "title": "Security Engineer",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Vancouver, WA, United States",
+      "remoteType": "remote",
+      "salaryMin": 168000,
+      "salaryMax": 198000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-03T18:34:40.264Z",
+      "firstIndexedAt": "2026-08-20T16:43:36.961Z",
+      "url": "https://www.dreamworkhq.com/job/3531d75f-836f-4392-8189-e69056622236?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "403a92ec-9456-40e0-b597-e733ce0a41e5",
@@ -5525,6 +5555,21 @@
       "url": "https://www.dreamworkhq.com/job/403a92ec-9456-40e0-b597-e733ce0a41e5?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "6b2df644-6df2-4514-a99e-b3bbb091fd85",
+      "title": "Security Engineer",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Boise, ID, United States",
+      "remoteType": "remote",
+      "salaryMin": 121600,
+      "salaryMax": 248000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-13T18:44:05.754Z",
+      "firstIndexedAt": "2026-08-20T16:43:34.663Z",
+      "url": "https://www.dreamworkhq.com/job/6b2df644-6df2-4514-a99e-b3bbb091fd85?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "81bd43e4-e1d4-45b5-80c7-ee1dadf20c41",
       "title": "Security Engineer",
       "company": "CheckPointSoftwareTechnologies2",
@@ -5538,36 +5583,6 @@
       "postedAt": "2026-08-19T13:24:00.420Z",
       "firstIndexedAt": "2026-08-20T16:43:34.663Z",
       "url": "https://www.dreamworkhq.com/job/81bd43e4-e1d4-45b5-80c7-ee1dadf20c41?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "dcdb6f55-bf9d-43aa-8a78-89d254074ebf",
-      "title": "Cyber Threat Intelligence Analyst",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T07:55:55.510Z",
-      "firstIndexedAt": "2026-08-20T16:43:34.663Z",
-      "url": "https://www.dreamworkhq.com/job/dcdb6f55-bf9d-43aa-8a78-89d254074ebf?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "d8997af9-0ede-4918-b581-46582cb52ee7",
-      "title": "Security Engineer",
-      "company": "CheckPointSoftwareTechnologies2",
-      "companyDomain": "checkpoint.com",
-      "location": "Phoenix, AZ, United States",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-14T17:24:09.483Z",
-      "firstIndexedAt": "2026-08-20T16:43:34.663Z",
-      "url": "https://www.dreamworkhq.com/job/d8997af9-0ede-4918-b581-46582cb52ee7?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "cef8aeca-0490-4ff4-924b-1c37ad20da90",
@@ -5585,19 +5600,34 @@
       "url": "https://www.dreamworkhq.com/job/cef8aeca-0490-4ff4-924b-1c37ad20da90?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "638a7fbd-df25-4802-b0e1-8467d3281b94",
-      "title": "Managed Services Consultant, Network Security (Night shift)",
+      "id": "d8997af9-0ede-4918-b581-46582cb52ee7",
+      "title": "Security Engineer",
       "company": "CheckPointSoftwareTechnologies2",
       "companyDomain": "checkpoint.com",
-      "location": "Bengaluru, KA, India",
+      "location": "Phoenix, AZ, United States",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T08:16:50.817Z",
+      "postedAt": "2026-08-14T17:24:09.483Z",
       "firstIndexedAt": "2026-08-20T16:43:34.663Z",
-      "url": "https://www.dreamworkhq.com/job/638a7fbd-df25-4802-b0e1-8467d3281b94?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/d8997af9-0ede-4918-b581-46582cb52ee7?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "eeb25cdd-9fab-41b9-9a30-339e8234b5f9",
+      "title": "Cyber Threat Intelligence Analyst",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Dallas, TX, United States",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-13T19:10:17.305Z",
+      "firstIndexedAt": "2026-08-20T16:43:34.663Z",
+      "url": "https://www.dreamworkhq.com/job/eeb25cdd-9fab-41b9-9a30-339e8234b5f9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "8eb2dc8c-4284-4911-8cac-17a374a9ad3b",
@@ -5630,6 +5660,21 @@
       "url": "https://www.dreamworkhq.com/job/1584bee5-b873-4127-85a8-cd200493e1fa?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "638a7fbd-df25-4802-b0e1-8467d3281b94",
+      "title": "Managed Services Consultant, Network Security (Night shift)",
+      "company": "CheckPointSoftwareTechnologies2",
+      "companyDomain": "checkpoint.com",
+      "location": "Bengaluru, KA, India",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T08:16:50.817Z",
+      "firstIndexedAt": "2026-08-20T16:43:34.663Z",
+      "url": "https://www.dreamworkhq.com/job/638a7fbd-df25-4802-b0e1-8467d3281b94?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "359543d1-b6f5-4412-9330-fbeb769e5ea2",
       "title": "Security Engineer Team Leader ",
       "company": "CheckPointSoftwareTechnologies2",
@@ -5645,19 +5690,19 @@
       "url": "https://www.dreamworkhq.com/job/359543d1-b6f5-4412-9330-fbeb769e5ea2?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "6b2df644-6df2-4514-a99e-b3bbb091fd85",
-      "title": "Security Engineer",
+      "id": "dcdb6f55-bf9d-43aa-8a78-89d254074ebf",
+      "title": "Cyber Threat Intelligence Analyst",
       "company": "CheckPointSoftwareTechnologies2",
       "companyDomain": "checkpoint.com",
-      "location": "Boise, ID, United States",
-      "remoteType": "remote",
-      "salaryMin": 121600,
-      "salaryMax": 248000,
-      "salaryPeriod": "annual",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-13T18:44:05.754Z",
+      "postedAt": "2026-08-20T07:55:55.510Z",
       "firstIndexedAt": "2026-08-20T16:43:34.663Z",
-      "url": "https://www.dreamworkhq.com/job/6b2df644-6df2-4514-a99e-b3bbb091fd85?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/dcdb6f55-bf9d-43aa-8a78-89d254074ebf?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "916e12ce-e8c4-4f51-a0f0-00b16a1f7e58",
@@ -5720,21 +5765,6 @@
       "url": "https://www.dreamworkhq.com/job/2d5956b9-9e1a-4e98-8081-fc69cf514f5c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "588810c4-0b5d-4b12-9251-6724cf2db58c",
-      "title": "Cyber Test Engineer",
-      "company": "Booz Allen Hamilton",
-      "companyDomain": "boozallen.com",
-      "location": "San Antonio, TX",
-      "remoteType": "hybrid",
-      "salaryMin": 86800,
-      "salaryMax": 198000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-18T09:29:38.016Z",
-      "firstIndexedAt": "2026-08-20T16:29:00.493Z",
-      "url": "https://www.dreamworkhq.com/job/588810c4-0b5d-4b12-9251-6724cf2db58c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "1fe114b5-8182-4113-98b7-7ee4353778d5",
       "title": "Personnel Security Specialist",
       "company": "Booz Allen Hamilton",
@@ -5763,6 +5793,21 @@
       "postedAt": "2026-08-18T09:29:37.902Z",
       "firstIndexedAt": "2026-08-20T16:29:00.493Z",
       "url": "https://www.dreamworkhq.com/job/7b1d4671-606c-4287-a140-5c65d8a7308a?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "588810c4-0b5d-4b12-9251-6724cf2db58c",
+      "title": "Cyber Test Engineer",
+      "company": "Booz Allen Hamilton",
+      "companyDomain": "boozallen.com",
+      "location": "San Antonio, TX",
+      "remoteType": "hybrid",
+      "salaryMin": 86800,
+      "salaryMax": 198000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-18T09:29:38.016Z",
+      "firstIndexedAt": "2026-08-20T16:29:00.493Z",
+      "url": "https://www.dreamworkhq.com/job/588810c4-0b5d-4b12-9251-6724cf2db58c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "632c3c43-465f-4913-98fe-3a5b6655562d",
@@ -5840,21 +5885,6 @@
       "url": "https://www.dreamworkhq.com/job/8d0eaf13-cab0-49ba-96e8-4a928f84569e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "676ae400-3957-4efc-885b-5317447f1f00",
-      "title": "Senior Software Supply Chain Security Researcher",
-      "company": "Commit Offshore",
-      "companyDomain": "commitoffshore.com",
-      "location": "Remote",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T10:51:51.685Z",
-      "firstIndexedAt": "2026-08-20T15:38:23.064Z",
-      "url": "https://www.dreamworkhq.com/job/676ae400-3957-4efc-885b-5317447f1f00?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "cce65ecf-5124-4206-85a8-6c726cf04e84",
       "title": "Senior Application Security Researcher",
       "company": "Commit Offshore",
@@ -5868,6 +5898,21 @@
       "postedAt": "2026-08-19T10:53:51.674Z",
       "firstIndexedAt": "2026-08-20T15:38:23.064Z",
       "url": "https://www.dreamworkhq.com/job/cce65ecf-5124-4206-85a8-6c726cf04e84?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "676ae400-3957-4efc-885b-5317447f1f00",
+      "title": "Senior Software Supply Chain Security Researcher",
+      "company": "Commit Offshore",
+      "companyDomain": "commitoffshore.com",
+      "location": "Remote",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T10:51:51.685Z",
+      "firstIndexedAt": "2026-08-20T15:38:23.064Z",
+      "url": "https://www.dreamworkhq.com/job/676ae400-3957-4efc-885b-5317447f1f00?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "e848a726-c145-4b79-813e-3ff727a0b4b9",
@@ -5945,6 +5990,36 @@
       "url": "https://www.dreamworkhq.com/job/f7ec5439-16b2-4328-bad7-f19f503ff299?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "90409edf-e1e1-4b5a-9987-b350328cb260",
+      "title": "Transit Safety Security Specialist",
+      "company": "AECOM",
+      "companyDomain": "aecom.com",
+      "location": "Atlanta, GA, United States",
+      "remoteType": "remote",
+      "salaryMin": 100000,
+      "salaryMax": 150000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T02:47:39.948Z",
+      "firstIndexedAt": "2026-08-20T15:33:39.089Z",
+      "url": "https://www.dreamworkhq.com/job/90409edf-e1e1-4b5a-9987-b350328cb260?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "e1027d2f-e30d-4e3b-8991-9a17ce64561b",
+      "title": "Transit Safety Security Specialist",
+      "company": "AECOM",
+      "companyDomain": "aecom.com",
+      "location": "Dallas, TX, United States",
+      "remoteType": "remote",
+      "salaryMin": 100000,
+      "salaryMax": 150000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T02:44:56.245Z",
+      "firstIndexedAt": "2026-08-20T15:33:39.089Z",
+      "url": "https://www.dreamworkhq.com/job/e1027d2f-e30d-4e3b-8991-9a17ce64561b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "29a62adf-f68b-4d91-b5b2-be93dcdf2b1d",
       "title": "Transit Safety Security Specialist",
       "company": "AECOM",
@@ -5973,36 +6048,6 @@
       "postedAt": "2026-08-19T02:41:12.697Z",
       "firstIndexedAt": "2026-08-20T15:33:39.089Z",
       "url": "https://www.dreamworkhq.com/job/912e7d12-41ab-4b1b-a2e3-d783814508ec?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "e1027d2f-e30d-4e3b-8991-9a17ce64561b",
-      "title": "Transit Safety Security Specialist",
-      "company": "AECOM",
-      "companyDomain": "aecom.com",
-      "location": "Dallas, TX, United States",
-      "remoteType": "remote",
-      "salaryMin": 100000,
-      "salaryMax": 150000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T02:44:56.245Z",
-      "firstIndexedAt": "2026-08-20T15:33:39.089Z",
-      "url": "https://www.dreamworkhq.com/job/e1027d2f-e30d-4e3b-8991-9a17ce64561b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "90409edf-e1e1-4b5a-9987-b350328cb260",
-      "title": "Transit Safety Security Specialist",
-      "company": "AECOM",
-      "companyDomain": "aecom.com",
-      "location": "Atlanta, GA, United States",
-      "remoteType": "remote",
-      "salaryMin": 100000,
-      "salaryMax": 150000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T02:47:39.948Z",
-      "firstIndexedAt": "2026-08-20T15:33:39.089Z",
-      "url": "https://www.dreamworkhq.com/job/90409edf-e1e1-4b5a-9987-b350328cb260?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "6dbc8ded-cb35-460f-a6ee-48580b2bf477",
@@ -6215,34 +6260,19 @@
       "url": "https://www.dreamworkhq.com/job/14ecdaf9-9ed7-42f7-964f-f95f9f48f113?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "d0d2a4b1-0a6d-4a87-bfa6-2b0544977a01",
-      "title": "DevSecOps Specialist (regular/senior) (She/He/They)",
+      "id": "de3b796c-30e1-4019-aaf0-1630d9c8276f",
+      "title": "Oracle Cloud Security Lead - Manager",
       "company": "Accenture",
       "companyDomain": "accenture.com",
-      "location": "Warsaw",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-20T14:12:08.104Z",
-      "firstIndexedAt": "2026-08-20T14:13:21.616Z",
-      "url": "https://www.dreamworkhq.com/job/d0d2a4b1-0a6d-4a87-bfa6-2b0544977a01?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "30bf1535-1f01-4b31-b833-0ce3524ba9c1",
-      "title": "OT Cyber Security Senior Manager",
-      "company": "Accenture",
-      "companyDomain": "accenture.com",
-      "location": "Amsterdam",
+      "location": "Cairo, CO55-Uvenues",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T14:12:06.541Z",
+      "postedAt": "2026-08-20T14:12:07.528Z",
       "firstIndexedAt": "2026-08-20T14:13:21.616Z",
-      "url": "https://www.dreamworkhq.com/job/30bf1535-1f01-4b31-b833-0ce3524ba9c1?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/de3b796c-30e1-4019-aaf0-1630d9c8276f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "f39e5f41-4a0a-4dd7-accc-0eaee05bda0c",
@@ -6260,6 +6290,21 @@
       "url": "https://www.dreamworkhq.com/job/f39e5f41-4a0a-4dd7-accc-0eaee05bda0c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "d0d2a4b1-0a6d-4a87-bfa6-2b0544977a01",
+      "title": "DevSecOps Specialist (regular/senior) (She/He/They)",
+      "company": "Accenture",
+      "companyDomain": "accenture.com",
+      "location": "Warsaw",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-20T14:12:08.104Z",
+      "firstIndexedAt": "2026-08-20T14:13:21.616Z",
+      "url": "https://www.dreamworkhq.com/job/d0d2a4b1-0a6d-4a87-bfa6-2b0544977a01?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "626dc705-0d87-4b77-8961-6498604faf6a",
       "title": "Network Security Specialist (regular/senior) (She/He/They)",
       "company": "Accenture",
@@ -6275,19 +6320,19 @@
       "url": "https://www.dreamworkhq.com/job/626dc705-0d87-4b77-8961-6498604faf6a?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "de3b796c-30e1-4019-aaf0-1630d9c8276f",
-      "title": "Oracle Cloud Security Lead - Manager",
+      "id": "30bf1535-1f01-4b31-b833-0ce3524ba9c1",
+      "title": "OT Cyber Security Senior Manager",
       "company": "Accenture",
       "companyDomain": "accenture.com",
-      "location": "Cairo, CO55-Uvenues",
+      "location": "Amsterdam",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T14:12:07.528Z",
+      "postedAt": "2026-08-20T14:12:06.541Z",
       "firstIndexedAt": "2026-08-20T14:13:21.616Z",
-      "url": "https://www.dreamworkhq.com/job/de3b796c-30e1-4019-aaf0-1630d9c8276f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/30bf1535-1f01-4b31-b833-0ce3524ba9c1?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "338e63bb-f474-46f7-bc81-9ed88b7b792c",
@@ -6495,24 +6540,9 @@
       "salaryMax": 162890,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T18:38:20.858Z",
+      "postedAt": "2026-08-19T23:36:34.816Z",
       "firstIndexedAt": "2026-08-20T11:38:14.334Z",
       "url": "https://www.dreamworkhq.com/job/7207ab9e-29ad-4e95-afe7-3f51adc8c9d3?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "fdbee93c-d121-4184-9ac1-9fc91b521f6a",
-      "title": "IT Solution Architect IAM, SOC &amp; IT Perimeter",
-      "company": "EURES Netherlands",
-      "companyDomain": "sourcepower.nl",
-      "location": "Netherlands",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T01:12:00.388Z",
-      "firstIndexedAt": "2026-08-20T11:34:12.741Z",
-      "url": "https://www.dreamworkhq.com/job/fdbee93c-d121-4184-9ac1-9fc91b521f6a?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "1016b5c1-e988-424f-8588-43362de062b4",
@@ -6528,6 +6558,21 @@
       "postedAt": "2026-08-20T01:12:30.845Z",
       "firstIndexedAt": "2026-08-20T11:34:12.741Z",
       "url": "https://www.dreamworkhq.com/job/1016b5c1-e988-424f-8588-43362de062b4?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "fdbee93c-d121-4184-9ac1-9fc91b521f6a",
+      "title": "IT Solution Architect IAM, SOC &amp; IT Perimeter",
+      "company": "EURES Netherlands",
+      "companyDomain": "sourcepower.nl",
+      "location": "Netherlands",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T01:12:00.388Z",
+      "firstIndexedAt": "2026-08-20T11:34:12.741Z",
+      "url": "https://www.dreamworkhq.com/job/fdbee93c-d121-4184-9ac1-9fc91b521f6a?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "e03c826e-b1b0-472e-9266-a087aceda0b5",
@@ -6600,7 +6645,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2024-08-21T11:30:29.468Z",
+      "postedAt": "2024-08-21T23:45:18.062Z",
       "firstIndexedAt": "2026-08-20T11:01:52.053Z",
       "url": "https://www.dreamworkhq.com/job/8121f5de-7237-4c21-b265-379a5f83b053?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -6905,22 +6950,7 @@
       "url": "https://www.dreamworkhq.com/job/aaefdbe0-2a80-44a9-aaae-7b957c0eb00b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "dda7bcd7-0e80-4b21-8136-81b1974931c5",
-      "title": "SOC Analyst L2",
-      "company": "Nttlimited",
-      "companyDomain": "nttlimitedinternal.service-now.com",
-      "location": "Delhi, India",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-20T09:14:51.099Z",
-      "url": "https://www.dreamworkhq.com/job/dda7bcd7-0e80-4b21-8136-81b1974931c5?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "2889db7b-9d5b-4886-93c6-2ff7051c1fae",
+      "id": "682ab0f9-6e71-48e8-ab08-af9e77fdf28c",
       "title": "SOC Analyst (L1)",
       "company": "Nttlimited",
       "companyDomain": "nttlimitedinternal.service-now.com",
@@ -6932,22 +6962,7 @@
       "aiRoleKind": "non_ai",
       "postedAt": null,
       "firstIndexedAt": "2026-08-20T09:14:51.099Z",
-      "url": "https://www.dreamworkhq.com/job/2889db7b-9d5b-4886-93c6-2ff7051c1fae?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "a6bcebf9-b978-421d-8dc4-2e6d50e81b04",
-      "title": "Senior Information Security Analyst",
-      "company": "Nttlimited",
-      "companyDomain": "nttlimitedinternal.service-now.com",
-      "location": "hyderabad",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-20T09:14:51.099Z",
-      "url": "https://www.dreamworkhq.com/job/a6bcebf9-b978-421d-8dc4-2e6d50e81b04?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/682ab0f9-6e71-48e8-ab08-af9e77fdf28c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "f295abf6-539d-47a5-8668-7ffd99768eb3",
@@ -6965,19 +6980,34 @@
       "url": "https://www.dreamworkhq.com/job/f295abf6-539d-47a5-8668-7ffd99768eb3?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "d841d79c-11fb-4508-a8c6-f7008d7817ca",
-      "title": "Senior Information Security Incident Response Lead",
+      "id": "dda7bcd7-0e80-4b21-8136-81b1974931c5",
+      "title": "SOC Analyst L2",
       "company": "Nttlimited",
       "companyDomain": "nttlimitedinternal.service-now.com",
-      "location": "Jakarta, Indonesia",
-      "remoteType": null,
+      "location": "Delhi, India",
+      "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
       "postedAt": null,
-      "firstIndexedAt": "2026-08-20T09:14:49.449Z",
-      "url": "https://www.dreamworkhq.com/job/d841d79c-11fb-4508-a8c6-f7008d7817ca?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "firstIndexedAt": "2026-08-20T09:14:51.099Z",
+      "url": "https://www.dreamworkhq.com/job/dda7bcd7-0e80-4b21-8136-81b1974931c5?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "a6bcebf9-b978-421d-8dc4-2e6d50e81b04",
+      "title": "Senior Information Security Analyst",
+      "company": "Nttlimited",
+      "companyDomain": "nttlimitedinternal.service-now.com",
+      "location": "hyderabad",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-20T09:14:51.099Z",
+      "url": "https://www.dreamworkhq.com/job/a6bcebf9-b978-421d-8dc4-2e6d50e81b04?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "61c05d12-4bb7-4644-aed3-4764b8b21d46",
@@ -6995,7 +7025,67 @@
       "url": "https://www.dreamworkhq.com/job/61c05d12-4bb7-4644-aed3-4764b8b21d46?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "9f1bfcbc-7af2-4894-bf11-8ef49dfa5343",
+      "id": "d841d79c-11fb-4508-a8c6-f7008d7817ca",
+      "title": "Senior Information Security Incident Response Lead",
+      "company": "Nttlimited",
+      "companyDomain": "nttlimitedinternal.service-now.com",
+      "location": "Jakarta, Indonesia",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-20T09:14:49.449Z",
+      "url": "https://www.dreamworkhq.com/job/d841d79c-11fb-4508-a8c6-f7008d7817ca?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "6258b5ef-362d-424d-b1a9-4b3dd2cf5f41",
+      "title": "Senior Information Security Incident Response Lead",
+      "company": "Nttlimited",
+      "companyDomain": "nttlimitedinternal.service-now.com",
+      "location": "Petaling Jaya, Malaysia",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-20T09:14:49.449Z",
+      "url": "https://www.dreamworkhq.com/job/6258b5ef-362d-424d-b1a9-4b3dd2cf5f41?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "4138eb40-341b-45dc-b272-abf9f7bbb400",
+      "title": "Security Engineer WAF and SSLO (L2)",
+      "company": "Nttlimited",
+      "companyDomain": "nttlimitedinternal.service-now.com",
+      "location": "Nagpur, India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-20T09:14:47.773Z",
+      "url": "https://www.dreamworkhq.com/job/4138eb40-341b-45dc-b272-abf9f7bbb400?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "afcdf159-5908-4020-8966-32c8cd98bab0",
+      "title": "Security Engineer WAF & SSLO (L1)",
+      "company": "Nttlimited",
+      "companyDomain": "nttlimitedinternal.service-now.com",
+      "location": "Nagpur, India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-20T09:14:47.773Z",
+      "url": "https://www.dreamworkhq.com/job/afcdf159-5908-4020-8966-32c8cd98bab0?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "a316752a-22f3-450f-9c7b-f120a9cadafb",
       "title": "Security Engineer WAF and SSLO (L2)",
       "company": "Nttlimited",
       "companyDomain": "nttlimitedinternal.service-now.com",
@@ -7007,7 +7097,7 @@
       "aiRoleKind": "non_ai",
       "postedAt": null,
       "firstIndexedAt": "2026-08-20T09:14:47.773Z",
-      "url": "https://www.dreamworkhq.com/job/9f1bfcbc-7af2-4894-bf11-8ef49dfa5343?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/a316752a-22f3-450f-9c7b-f120a9cadafb?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "2fc20693-2b01-404d-99fd-47d7db5f382c",
@@ -7038,36 +7128,6 @@
       "postedAt": null,
       "firstIndexedAt": "2026-08-20T09:14:47.773Z",
       "url": "https://www.dreamworkhq.com/job/66049250-fb2e-43b7-a804-42de08ccba9b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "59b58dd7-f425-4fdb-8df2-bae906e62136",
-      "title": "Security Engineer WAF and SSLO (L2)",
-      "company": "Nttlimited",
-      "companyDomain": "nttlimitedinternal.service-now.com",
-      "location": "Nagpur, India",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-20T09:14:47.773Z",
-      "url": "https://www.dreamworkhq.com/job/59b58dd7-f425-4fdb-8df2-bae906e62136?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "afcdf159-5908-4020-8966-32c8cd98bab0",
-      "title": "Security Engineer WAF & SSLO (L1)",
-      "company": "Nttlimited",
-      "companyDomain": "nttlimitedinternal.service-now.com",
-      "location": "Nagpur, India",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-20T09:14:47.773Z",
-      "url": "https://www.dreamworkhq.com/job/afcdf159-5908-4020-8966-32c8cd98bab0?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     }
   ]
 }
