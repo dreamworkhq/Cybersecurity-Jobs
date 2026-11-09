@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-11-09T01:54:38.023Z",
+  "generatedAt": "2026-11-09T04:09:49.033Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Cybersecurity-Jobs",
   "count": 600,
   "listings": [
+    {
+      "id": "7b73d5b6-f1ed-4a96-aa76-c36a6d8321de",
+      "title": "Senior Customs Officer - Grade 1 - National Security Operations Team",
+      "company": "New Zealand Customs Service",
+      "companyDomain": "customs.govt.nz",
+      "location": "Christchurch Central, Canterbury",
+      "remoteType": "onsite",
+      "salaryMin": 38000,
+      "salaryMax": 49000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T00:21:42.000Z",
+      "firstIndexedAt": "2026-11-09T04:03:54.548Z",
+      "url": "https://www.dreamworkhq.com/job/7b73d5b6-f1ed-4a96-aa76-c36a6d8321de?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "a36886da-9c15-4854-80f3-7c732e0c24e9",
+      "title": "Senior Customs Officer - Grade 1 - National Security Operations Team",
+      "company": "New Zealand Customs Service",
+      "companyDomain": "customs.govt.nz",
+      "location": "Auckland CBD, Auckland",
+      "remoteType": "onsite",
+      "salaryMin": 38000,
+      "salaryMax": 49000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T00:03:12.000Z",
+      "firstIndexedAt": "2026-11-09T04:03:54.548Z",
+      "url": "https://www.dreamworkhq.com/job/a36886da-9c15-4854-80f3-7c732e0c24e9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
     {
       "id": "c02cbb0a-fe74-4cef-ae6e-164cac2386ac",
       "title": "Senior Security Analyst",
@@ -30,13 +60,13 @@
       "salaryMax": 271700,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-11-09T01:01:41.810Z",
+      "postedAt": "2026-11-09T02:19:47.863Z",
       "firstIndexedAt": "2026-11-09T01:03:12.553Z",
       "url": "https://www.dreamworkhq.com/job/30d4c10a-0be9-423a-8cd1-05a52a96661a?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "71ef030e-fa18-4a06-b3b8-317a87541f65",
-      "title": "Security Program Manager",
+      "title": "Senior Security Program Manager",
       "company": "AirTrunk",
       "companyDomain": "airtrunk.com",
       "location": "Mumbai, India",
@@ -690,7 +720,7 @@
       "salaryMax": 127670,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T03:32:07.481Z",
+      "postedAt": "2026-11-07T03:47:08.167Z",
       "firstIndexedAt": "2026-11-07T14:03:01.754Z",
       "url": "https://www.dreamworkhq.com/job/44a45432-bafb-48e6-be61-0c395d1f39ad?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -705,7 +735,7 @@
       "salaryMax": 159270,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T03:32:07.485Z",
+      "postedAt": "2026-11-07T03:47:07.932Z",
       "firstIndexedAt": "2026-11-07T14:03:01.754Z",
       "url": "https://www.dreamworkhq.com/job/43fa1abb-3c7e-4a4c-94bc-5b3ca5975a30?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -720,24 +750,9 @@
       "salaryMax": 225000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T03:02:57.580Z",
+      "postedAt": "2026-11-07T03:17:26.177Z",
       "firstIndexedAt": "2026-11-07T13:33:37.700Z",
       "url": "https://www.dreamworkhq.com/job/3879fdaf-1206-4f8d-94d5-a4823e25e37e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "7028f5b4-42d0-4de2-a3e1-07fb017f8985",
-      "title": "Information Systems Security Manager",
-      "company": "Booz Allen Hamilton",
-      "companyDomain": "boozallen.com",
-      "location": "Annapolis Junction, MD",
-      "remoteType": "hybrid",
-      "salaryMin": 99000,
-      "salaryMax": 225000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T03:02:56.539Z",
-      "firstIndexedAt": "2026-11-07T13:33:32.224Z",
-      "url": "https://www.dreamworkhq.com/job/7028f5b4-42d0-4de2-a3e1-07fb017f8985?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "a8464d55-a2a5-4902-ae78-cb3099db42f8",
@@ -750,9 +765,24 @@
       "salaryMax": 176000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T03:02:57.176Z",
+      "postedAt": "2026-11-07T03:17:25.357Z",
       "firstIndexedAt": "2026-11-07T13:33:32.224Z",
       "url": "https://www.dreamworkhq.com/job/a8464d55-a2a5-4902-ae78-cb3099db42f8?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "7028f5b4-42d0-4de2-a3e1-07fb017f8985",
+      "title": "Information Systems Security Manager",
+      "company": "Booz Allen Hamilton",
+      "companyDomain": "boozallen.com",
+      "location": "Annapolis Junction, MD",
+      "remoteType": "hybrid",
+      "salaryMin": 99000,
+      "salaryMax": 225000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-07T03:17:24.712Z",
+      "firstIndexedAt": "2026-11-07T13:33:32.224Z",
+      "url": "https://www.dreamworkhq.com/job/7028f5b4-42d0-4de2-a3e1-07fb017f8985?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "d6767ce0-5641-4832-b4ca-f0d040cfa207",
@@ -765,7 +795,7 @@
       "salaryMax": 230700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T02:47:28.983Z",
+      "postedAt": "2026-11-07T03:01:59.591Z",
       "firstIndexedAt": "2026-11-07T13:17:05.864Z",
       "url": "https://www.dreamworkhq.com/job/d6767ce0-5641-4832-b4ca-f0d040cfa207?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -870,7 +900,7 @@
       "salaryMax": 80000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T02:45:24.185Z",
+      "postedAt": "2026-11-07T03:00:25.213Z",
       "firstIndexedAt": "2026-11-07T11:15:49.199Z",
       "url": "https://www.dreamworkhq.com/job/369d5b49-f0df-40d4-8c88-74e2d9e5a44e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -1355,6 +1385,21 @@
       "url": "https://www.dreamworkhq.com/job/ae879175-863d-4038-b72f-e358512df479?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "a912f9b8-107c-49d2-96cd-eaba59b73be0",
+      "title": "AI Security (Senior) Consultant (m/w/d)",
+      "company": "Trusteq",
+      "companyDomain": "trusteq.de",
+      "location": "München, Stuttgart",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-11-06T13:23:22.000Z",
+      "firstIndexedAt": "2026-11-07T02:44:24.992Z",
+      "url": "https://www.dreamworkhq.com/job/a912f9b8-107c-49d2-96cd-eaba59b73be0?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "847182ab-c20c-48dd-aa07-b7adfc8e6072",
       "title": "Cybersecurity Management (Senior) Consultant (m/w/d)",
       "company": "Trusteq",
@@ -1775,6 +1820,21 @@
       "url": "https://www.dreamworkhq.com/job/08d25f56-a0b7-4c5a-90d1-ee73056c29d4?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "480b67b8-1aee-421c-bf11-60e6fd7b0f8d",
+      "title": "Information System Security Officer",
+      "company": "Red Arch Solutions",
+      "companyDomain": "redarchsolutions.com",
+      "location": "Annapolis Junction, MD",
+      "remoteType": "onsite",
+      "salaryMin": 181000,
+      "salaryMax": 190000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T17:08:39.000Z",
+      "firstIndexedAt": "2026-11-07T02:41:35.562Z",
+      "url": "https://www.dreamworkhq.com/job/480b67b8-1aee-421c-bf11-60e6fd7b0f8d?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "101e729c-599b-43a5-a11a-1a99f969fc3b",
       "title": "Intern, Cyber IT",
       "company": "LITTLE CAESARS",
@@ -1803,6 +1863,21 @@
       "postedAt": "2026-11-06T10:47:29.000Z",
       "firstIndexedAt": "2026-11-07T02:41:33.298Z",
       "url": "https://www.dreamworkhq.com/job/711f2dac-1251-4221-8014-e698b7084ff4?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "1ec639fa-0a15-4dc7-9c83-4e9ad5a5aadb",
+      "title": "Information Systems Security Officer2",
+      "company": "Lentech",
+      "companyDomain": "lentech.com",
+      "location": "Ft Meade, MD",
+      "remoteType": "onsite",
+      "salaryMin": 189117,
+      "salaryMax": 189117,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T15:10:18.000Z",
+      "firstIndexedAt": "2026-11-07T02:41:30.496Z",
+      "url": "https://www.dreamworkhq.com/job/1ec639fa-0a15-4dc7-9c83-4e9ad5a5aadb?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "83e1bd50-919d-4ec5-94e7-ae465a379135",
@@ -2060,6 +2135,21 @@
       "url": "https://www.dreamworkhq.com/job/453bdda7-e541-43f0-9953-f7b9232b46fc?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "779ef2b3-797f-468b-bb92-af3fd5a04949",
+      "title": "IT Security Support Specialist - Corp. Access Management - Firstbank Pr",
+      "company": "FirstBank Puerto Rico",
+      "companyDomain": "firstbankpr.com",
+      "location": "Services Center - Avenida MuÃ±oz Rivera 1130 San Juan, PR 00927",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T11:54:34.000Z",
+      "firstIndexedAt": "2026-11-07T02:40:13.882Z",
+      "url": "https://www.dreamworkhq.com/job/779ef2b3-797f-468b-bb92-af3fd5a04949?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "7427d684-49bc-46e0-b1b0-c550200d28ab",
       "title": "Info Sec Incident Response Specialist",
       "company": "TIAA",
@@ -2118,6 +2208,36 @@
       "postedAt": "2026-11-06T02:04:40.000Z",
       "firstIndexedAt": "2026-11-07T02:39:56.124Z",
       "url": "https://www.dreamworkhq.com/job/5b58b33f-6548-4dc7-9b92-c83bd4c32bfe?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "05cbdfcc-7909-4219-b964-c489620ae2fc",
+      "title": "AI Security Officer",
+      "company": "Sourcebooks",
+      "companyDomain": "sourcebooks.com",
+      "location": "Naperville, IL",
+      "remoteType": "hybrid",
+      "salaryMin": 110000,
+      "salaryMax": 120000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-11-06T14:38:03.000Z",
+      "firstIndexedAt": "2026-11-07T02:39:55.665Z",
+      "url": "https://www.dreamworkhq.com/job/05cbdfcc-7909-4219-b964-c489620ae2fc?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "468d36e5-39e4-4872-8a35-51cb589a6afe",
+      "title": "Information Systems Security Officer 2",
+      "company": "Trexsolutions",
+      "companyDomain": "trexsolutionsllc.com",
+      "location": "Fort Meade, Maryland",
+      "remoteType": "onsite",
+      "salaryMin": 160000,
+      "salaryMax": 200000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T10:24:44.000Z",
+      "firstIndexedAt": "2026-11-07T02:39:51.861Z",
+      "url": "https://www.dreamworkhq.com/job/468d36e5-39e4-4872-8a35-51cb589a6afe?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "6bdefc7e-da95-45bf-a6be-af9471f10b57",
@@ -2285,6 +2405,21 @@
       "url": "https://www.dreamworkhq.com/job/1210f640-db10-4398-b55e-7e09dc7b18c9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "0edadd21-34af-4713-b021-fc5f8b249396",
+      "title": "Information Systems Security Officer 2",
+      "company": "Itezz",
+      "companyDomain": "itezz.com",
+      "location": "Laurel, MD",
+      "remoteType": null,
+      "salaryMin": 220000,
+      "salaryMax": 230000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T11:35:30.000Z",
+      "firstIndexedAt": "2026-11-07T02:39:30.844Z",
+      "url": "https://www.dreamworkhq.com/job/0edadd21-34af-4713-b021-fc5f8b249396?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "9e437a65-bda8-4c9e-b9f3-2472723d0e2d",
       "title": "Cyber Resiliency Analyst",
       "company": "Bank of America",
@@ -2418,6 +2553,21 @@
       "postedAt": "2026-11-06T09:36:12.000Z",
       "firstIndexedAt": "2026-11-07T02:39:15.774Z",
       "url": "https://www.dreamworkhq.com/job/27aa63f8-def5-42d5-b4f3-b1d1a9de211c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "c45f0913-38ea-4f6e-b816-e6475b690471",
+      "title": "Senior Associate, IT Security",
+      "company": "L3Harris",
+      "companyDomain": "l3harris.com",
+      "location": "Melbourne, FL",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T12:21:18.000Z",
+      "firstIndexedAt": "2026-11-07T02:39:13.310Z",
+      "url": "https://www.dreamworkhq.com/job/c45f0913-38ea-4f6e-b816-e6475b690471?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "b15f39f2-dfb2-49e5-a31b-608a610cd048",
@@ -2583,6 +2733,21 @@
       "postedAt": "2026-11-06T12:12:07.000Z",
       "firstIndexedAt": "2026-11-07T02:38:49.978Z",
       "url": "https://www.dreamworkhq.com/job/81239a96-0be7-4bcc-8306-7aacbcf6763f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "6d12ae72-6905-448f-9b4c-078d41b4eb84",
+      "title": "Information Systems Security Officer - Contingent",
+      "company": "ARES Enterprise",
+      "companyDomain": "aresenterprise.com",
+      "location": "Los Angeles Air Force Base (LAAFB) – El Segundo, CA",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T18:58:03.000Z",
+      "firstIndexedAt": "2026-11-07T02:38:44.158Z",
+      "url": "https://www.dreamworkhq.com/job/6d12ae72-6905-448f-9b4c-078d41b4eb84?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "66e6d40a-53bd-4597-abec-32bc06af2964",
@@ -3605,6 +3770,21 @@
       "url": "https://www.dreamworkhq.com/job/51825623-4edd-4b35-920b-234be05571c1?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "0a697030-ef52-4013-beba-9b58ad0b63f0",
+      "title": "Information Systems Security Officer L1",
+      "company": "Unisity",
+      "companyDomain": null,
+      "location": "Annapolis Junction, Maryland",
+      "remoteType": "onsite",
+      "salaryMin": 175000,
+      "salaryMax": 185000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T19:41:18.000Z",
+      "firstIndexedAt": "2026-11-07T02:36:53.500Z",
+      "url": "https://www.dreamworkhq.com/job/0a697030-ef52-4013-beba-9b58ad0b63f0?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "7123cdf4-166e-4fc6-be69-b5ed1ae9fe2c",
       "title": "Cybersecurity Forensics Analyst - Expert",
       "company": "Huntington National Bank",
@@ -3783,6 +3963,21 @@
       "postedAt": "2026-11-06T12:21:57.000Z",
       "firstIndexedAt": "2026-11-07T02:36:28.709Z",
       "url": "https://www.dreamworkhq.com/job/22a2f5f7-fa53-4f1e-84a8-dcdc496da523?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "8585759b-33c6-4acd-a713-1758ec37a310",
+      "title": "IT Security Manager (M/W/D)",
+      "company": "Wilken Software Group",
+      "companyDomain": "wilken.de",
+      "location": "DE_Ulm",
+      "remoteType": "hybrid",
+      "salaryMin": 79000,
+      "salaryMax": 79000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T05:53:15.000Z",
+      "firstIndexedAt": "2026-11-07T02:36:27.823Z",
+      "url": "https://www.dreamworkhq.com/job/8585759b-33c6-4acd-a713-1758ec37a310?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "ca4fbe87-f9b5-4a76-af1c-4d970a50fa12",
@@ -4205,36 +4400,6 @@
       "url": "https://www.dreamworkhq.com/job/7e53f622-078b-4e7f-9f2f-9c7ff8b81051?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "d62eb357-a3bc-4444-818d-a48a733615e3",
-      "title": "Senior Manager, Identity and Access Management",
-      "company": "Delinea",
-      "companyDomain": "delinea.com",
-      "location": "U.S. Remote",
-      "remoteType": "remote",
-      "salaryMin": 190000,
-      "salaryMax": 225000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T10:55:57.000Z",
-      "firstIndexedAt": "2026-11-07T02:35:34.534Z",
-      "url": "https://www.dreamworkhq.com/job/d62eb357-a3bc-4444-818d-a48a733615e3?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "19849af1-a118-480b-bf7e-a94e41f88c8a",
-      "title": "Tier II Incident Response Senior Analyst (Night Shift)",
-      "company": "Sentar",
-      "companyDomain": "sentar.com",
-      "location": "Quantico VA",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T01:10:10.000Z",
-      "firstIndexedAt": "2026-11-07T02:35:32.255Z",
-      "url": "https://www.dreamworkhq.com/job/19849af1-a118-480b-bf7e-a94e41f88c8a?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "69d9e5a6-32b4-4c65-9c2c-504520559c35",
       "title": "Adjunct Faculty, Cybersecurity, Atlanta (Hybrid)",
       "company": "Strategic Education",
@@ -4400,21 +4565,6 @@
       "url": "https://www.dreamworkhq.com/job/0718183b-c229-4170-928b-12199a768d12?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "acc9e428-31cf-4103-bb12-c03b8bfc8b7f",
-      "title": "Cyber Security Analyst",
-      "company": "Ardent Principles",
-      "companyDomain": "ardentprinciples.com",
-      "location": "Chantilly, VA",
-      "remoteType": "onsite",
-      "salaryMin": 130000,
-      "salaryMax": 260000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T18:07:21.000Z",
-      "firstIndexedAt": "2026-11-07T02:34:39.753Z",
-      "url": "https://www.dreamworkhq.com/job/acc9e428-31cf-4103-bb12-c03b8bfc8b7f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "40d2ea3e-940b-4550-9277-ece7fcb7a8e9",
       "title": "Senior Cyber Range Subject Matter Expert",
       "company": "MILVETS Systems Technology",
@@ -4428,6 +4578,21 @@
       "postedAt": "2026-11-06T14:07:17.000Z",
       "firstIndexedAt": "2026-11-07T02:34:39.753Z",
       "url": "https://www.dreamworkhq.com/job/40d2ea3e-940b-4550-9277-ece7fcb7a8e9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "acc9e428-31cf-4103-bb12-c03b8bfc8b7f",
+      "title": "Cyber Security Analyst",
+      "company": "Ardent Principles",
+      "companyDomain": "ardentprinciples.com",
+      "location": "Chantilly, VA",
+      "remoteType": "onsite",
+      "salaryMin": 130000,
+      "salaryMax": 260000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T18:07:21.000Z",
+      "firstIndexedAt": "2026-11-07T02:34:39.753Z",
+      "url": "https://www.dreamworkhq.com/job/acc9e428-31cf-4103-bb12-c03b8bfc8b7f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "a14cb51a-4337-443a-9ee7-75987bd197c8",
@@ -4488,6 +4653,21 @@
       "postedAt": "2026-11-06T14:48:16.000Z",
       "firstIndexedAt": "2026-11-07T02:34:32.860Z",
       "url": "https://www.dreamworkhq.com/job/7aea9ad2-6aa7-4020-83b1-4d2655f1dabd?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "2de22211-4d19-4515-a867-ffabcd20ccf8",
+      "title": "Information Systems Security Officer (ISSO) III - Albuquerque, New Mexico",
+      "company": "GD Information Technology",
+      "companyDomain": null,
+      "location": "USA CA Lompoc - Customer Proprietary (CAC240)",
+      "remoteType": "onsite",
+      "salaryMin": 107744,
+      "salaryMax": 132940,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T01:31:57.000Z",
+      "firstIndexedAt": "2026-11-07T02:34:25.767Z",
+      "url": "https://www.dreamworkhq.com/job/2de22211-4d19-4515-a867-ffabcd20ccf8?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "d4750518-6a27-49dd-b65d-3b36e4470e4e",
@@ -4895,21 +5075,6 @@
       "url": "https://www.dreamworkhq.com/job/7edb27f6-29b3-4d6c-995e-d62583478cdd?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "a8b539be-d375-4655-8a24-fd2d4e8a24bc",
-      "title": "Senior Software Engineer II, Cloud Security",
-      "company": "Qualia",
-      "companyDomain": "qualia.com",
-      "location": "Austin, TX",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T17:38:49.000Z",
-      "firstIndexedAt": "2026-11-07T02:15:44.095Z",
-      "url": "https://www.dreamworkhq.com/job/a8b539be-d375-4655-8a24-fd2d4e8a24bc?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "2d854397-7e49-422e-a806-2cadef06581d",
       "title": "Engineering Manager II, Cloud Security",
       "company": "Qualia",
@@ -4923,6 +5088,21 @@
       "postedAt": "2026-11-03T21:07:15.000Z",
       "firstIndexedAt": "2026-11-07T02:15:44.095Z",
       "url": "https://www.dreamworkhq.com/job/2d854397-7e49-422e-a806-2cadef06581d?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "a8b539be-d375-4655-8a24-fd2d4e8a24bc",
+      "title": "Senior Software Engineer II, Cloud Security",
+      "company": "Qualia",
+      "companyDomain": "qualia.com",
+      "location": "Austin, TX",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-05T17:38:49.000Z",
+      "firstIndexedAt": "2026-11-07T02:15:44.095Z",
+      "url": "https://www.dreamworkhq.com/job/a8b539be-d375-4655-8a24-fd2d4e8a24bc?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "3b390815-7b41-4419-b2a2-6e75a9cf8136",
@@ -5060,7 +5240,7 @@
       "url": "https://www.dreamworkhq.com/job/847c2af7-2db4-4c30-b415-e3d6bd8eedd9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "fb514133-fea7-4c52-8b68-4d67a59254eb",
+      "id": "45421b61-57e4-48e2-9923-f20b4127252e",
       "title": "Security Engineer",
       "company": "Copeland",
       "companyDomain": "copeland.com",
@@ -5070,9 +5250,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T03:00:50.713Z",
+      "postedAt": "2026-11-07T03:15:49.798Z",
       "firstIndexedAt": "2026-11-07T00:01:31.204Z",
-      "url": "https://www.dreamworkhq.com/job/fb514133-fea7-4c52-8b68-4d67a59254eb?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/45421b61-57e4-48e2-9923-f20b4127252e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "67e17e87-2719-4e63-9472-af071980bc15",
@@ -5100,7 +5280,7 @@
       "salaryMax": 61000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T02:47:41.370Z",
+      "postedAt": "2026-11-07T03:02:41.906Z",
       "firstIndexedAt": "2026-11-06T23:58:49.425Z",
       "url": "https://www.dreamworkhq.com/job/c9cb737a-85e5-4f52-89d3-c1cdcc102936?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -5115,7 +5295,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T02:47:40.978Z",
+      "postedAt": "2026-11-07T03:02:41.688Z",
       "firstIndexedAt": "2026-11-06T23:58:49.425Z",
       "url": "https://www.dreamworkhq.com/job/13c04d60-33e4-4f0f-8a25-e00ba48f9a50?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -5130,7 +5310,7 @@
       "salaryMax": 237350,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T02:47:40.389Z",
+      "postedAt": "2026-11-07T03:02:41.303Z",
       "firstIndexedAt": "2026-11-06T23:58:47.753Z",
       "url": "https://www.dreamworkhq.com/job/2e45e49f-6763-49c8-9ba3-81c559049657?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -5145,7 +5325,7 @@
       "salaryMax": 195050,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T02:47:40.507Z",
+      "postedAt": "2026-11-07T03:02:42.301Z",
       "firstIndexedAt": "2026-11-06T23:58:47.753Z",
       "url": "https://www.dreamworkhq.com/job/057009bd-7749-4158-aaf1-20c472adb6c4?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -5160,7 +5340,7 @@
       "salaryMax": 157450,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T02:47:33.713Z",
+      "postedAt": "2026-11-07T03:02:33.534Z",
       "firstIndexedAt": "2026-11-06T23:58:45.313Z",
       "url": "https://www.dreamworkhq.com/job/2a9906ee-af11-46e3-b1ac-5a14a0fe26b3?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -5175,24 +5355,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T14:47:51.971Z",
+      "postedAt": "2026-11-07T03:02:20.194Z",
       "firstIndexedAt": "2026-11-06T23:51:06.545Z",
       "url": "https://www.dreamworkhq.com/job/00d96ac7-c25e-4814-a01f-2533c418b565?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "33cc7c78-c388-4c65-93aa-3f6f1f7ab6e9",
-      "title": "Product Security Engineer",
-      "company": "Group1001wd",
-      "companyDomain": "group1001.com",
-      "location": "Zionsville, Indiana",
-      "remoteType": "remote",
-      "salaryMin": 145000,
-      "salaryMax": 215000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T15:46:27.630Z",
-      "firstIndexedAt": "2026-11-06T23:45:17.261Z",
-      "url": "https://www.dreamworkhq.com/job/33cc7c78-c388-4c65-93aa-3f6f1f7ab6e9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "38f58306-2637-4f3d-ae88-5b51bf6abca9",
@@ -5210,6 +5375,21 @@
       "url": "https://www.dreamworkhq.com/job/38f58306-2637-4f3d-ae88-5b51bf6abca9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "33cc7c78-c388-4c65-93aa-3f6f1f7ab6e9",
+      "title": "Product Security Engineer",
+      "company": "Group1001wd",
+      "companyDomain": "group1001.com",
+      "location": "Zionsville, Indiana",
+      "remoteType": "remote",
+      "salaryMin": 145000,
+      "salaryMax": 215000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T15:46:27.630Z",
+      "firstIndexedAt": "2026-11-06T23:45:17.261Z",
+      "url": "https://www.dreamworkhq.com/job/33cc7c78-c388-4c65-93aa-3f6f1f7ab6e9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "a7533ccc-da11-44ee-836f-98e5afb82986",
       "title": "Cybersecurity - Identity Management Specialist",
       "company": "Avanade",
@@ -5220,7 +5400,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T02:02:49.840Z",
+      "postedAt": "2026-11-07T02:16:52.902Z",
       "firstIndexedAt": "2026-11-06T22:56:46.667Z",
       "url": "https://www.dreamworkhq.com/job/a7533ccc-da11-44ee-836f-98e5afb82986?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -5250,7 +5430,7 @@
       "salaryMax": 160000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-11-06T14:03:12.000Z",
+      "postedAt": "2026-11-07T03:01:55.026Z",
       "firstIndexedAt": "2026-11-06T22:25:05.730Z",
       "url": "https://www.dreamworkhq.com/job/9aa8a63b-fb77-46a4-8cdd-0a8886b5b6ae?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -5298,6 +5478,21 @@
       "postedAt": "2026-11-06T17:10:28.000Z",
       "firstIndexedAt": "2026-11-06T22:01:07.387Z",
       "url": "https://www.dreamworkhq.com/job/1c59fa7a-704a-47fb-a701-81182688b38c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "ac91c9c3-6e6b-4191-8e32-792f8ace0061",
+      "title": "Senior Information Systems Security Officer (ISSO) II - Woburn, MA",
+      "company": "RTX (Raytheon)",
+      "companyDomain": "rtx.com",
+      "location": "US-MA-WOBURN-WB2 ~ 225 Presidential Way ~ GODDARD BLDG",
+      "remoteType": "hybrid",
+      "salaryMin": 75800,
+      "salaryMax": 144200,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T16:50:07.762Z",
+      "firstIndexedAt": "2026-11-06T21:51:13.221Z",
+      "url": "https://www.dreamworkhq.com/job/ac91c9c3-6e6b-4191-8e32-792f8ace0061?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "ba9bbf21-ab6d-452c-84a7-b76d6070c093",
@@ -5480,6 +5675,21 @@
       "url": "https://www.dreamworkhq.com/job/41451614-1dbc-405d-b218-dc00b42d73bf?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "ce601cfc-3514-4bd0-900f-83c7b996f739",
+      "title": "Information System Security Officer (ISSO), US ADC Security",
+      "company": "Amazon",
+      "companyDomain": "amazon.com",
+      "location": "US, VA, Herndon",
+      "remoteType": null,
+      "salaryMin": 102000,
+      "salaryMax": 178400,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T00:00:00.000Z",
+      "firstIndexedAt": "2026-11-06T18:48:09.872Z",
+      "url": "https://www.dreamworkhq.com/job/ce601cfc-3514-4bd0-900f-83c7b996f739?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "a07c700d-d881-4886-9710-600240a66eaf",
       "title": "Security Architect",
       "company": "The Missing Link",
@@ -5505,7 +5715,7 @@
       "salaryMax": 213700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T00:31:43.363Z",
+      "postedAt": "2026-11-07T02:31:43.717Z",
       "firstIndexedAt": "2026-11-06T18:30:46.774Z",
       "url": "https://www.dreamworkhq.com/job/d2c7c831-eb40-49bb-9d4e-c40ce5510ab9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -5580,7 +5790,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-11-07T00:30:38.949Z",
+      "postedAt": "2026-11-07T03:46:33.928Z",
       "firstIndexedAt": "2026-11-06T17:28:17.689Z",
       "url": "https://www.dreamworkhq.com/job/029b887e-5cda-47b7-abc0-d52578b45411?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -5595,7 +5805,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-11-07T00:30:39.065Z",
+      "postedAt": "2026-11-07T03:46:34.097Z",
       "firstIndexedAt": "2026-11-06T17:28:17.689Z",
       "url": "https://www.dreamworkhq.com/job/e74bfa75-bf6c-434f-b35f-0ea2d3d239bd?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -5730,7 +5940,7 @@
       "salaryMax": 225900,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T01:46:58.579Z",
+      "postedAt": "2026-11-07T04:01:41.573Z",
       "firstIndexedAt": "2026-11-06T16:14:41.000Z",
       "url": "https://www.dreamworkhq.com/job/a19730e7-bace-4571-9785-046adf81522b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -6035,21 +6245,6 @@
       "url": "https://www.dreamworkhq.com/job/3ec7544b-e24c-42e3-b32d-98d918e2b08d?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "bacbcd1c-57fc-4e7b-8c71-fe13902320ce",
-      "title": "Cyber Security Apprentice (42-month fixed term contract)",
-      "company": "Amazon",
-      "companyDomain": "amazon.com",
-      "location": "GB, Manchester",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T00:00:00.000Z",
-      "firstIndexedAt": "2026-11-06T13:48:25.673Z",
-      "url": "https://www.dreamworkhq.com/job/bacbcd1c-57fc-4e7b-8c71-fe13902320ce?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "5acc98c0-46ba-486b-b080-4ab0ce08bd38",
       "title": "Cyber Security Apprentice (42-month fixed term contract)",
       "company": "Amazon",
@@ -6063,6 +6258,21 @@
       "postedAt": "2026-11-06T00:00:00.000Z",
       "firstIndexedAt": "2026-11-06T13:48:25.673Z",
       "url": "https://www.dreamworkhq.com/job/5acc98c0-46ba-486b-b080-4ab0ce08bd38?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "bacbcd1c-57fc-4e7b-8c71-fe13902320ce",
+      "title": "Cyber Security Apprentice (42-month fixed term contract)",
+      "company": "Amazon",
+      "companyDomain": "amazon.com",
+      "location": "GB, Manchester",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T00:00:00.000Z",
+      "firstIndexedAt": "2026-11-06T13:48:25.673Z",
+      "url": "https://www.dreamworkhq.com/job/bacbcd1c-57fc-4e7b-8c71-fe13902320ce?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "3514333c-62f5-457e-b65c-5d39adedeedb",
@@ -6200,21 +6410,6 @@
       "url": "https://www.dreamworkhq.com/job/acc86a76-7f95-4b09-92db-ccd46bc9da58?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "20bcc7a7-be33-4143-aca0-41d962562032",
-      "title": "Systems Security Engineer III",
-      "company": "Snc",
-      "companyDomain": "sncorp.com",
-      "location": "Lone Tree, CO",
-      "remoteType": "onsite",
-      "salaryMin": 113922,
-      "salaryMax": 156642,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T16:48:05.520Z",
-      "firstIndexedAt": "2026-11-06T12:10:40.137Z",
-      "url": "https://www.dreamworkhq.com/job/20bcc7a7-be33-4143-aca0-41d962562032?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "62cb07b0-f6b2-4a5b-a5b3-8177364512f0",
       "title": "Systems Security Engineer III",
       "company": "Snc",
@@ -6228,6 +6423,21 @@
       "postedAt": "2026-11-05T16:48:05.478Z",
       "firstIndexedAt": "2026-11-06T12:10:40.137Z",
       "url": "https://www.dreamworkhq.com/job/62cb07b0-f6b2-4a5b-a5b3-8177364512f0?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "20bcc7a7-be33-4143-aca0-41d962562032",
+      "title": "Systems Security Engineer III",
+      "company": "Snc",
+      "companyDomain": "sncorp.com",
+      "location": "Lone Tree, CO",
+      "remoteType": "onsite",
+      "salaryMin": 113922,
+      "salaryMax": 156642,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-05T16:48:05.520Z",
+      "firstIndexedAt": "2026-11-06T12:10:40.137Z",
+      "url": "https://www.dreamworkhq.com/job/20bcc7a7-be33-4143-aca0-41d962562032?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "c871b43e-5064-4ed1-b85f-b7d49111d408",
@@ -6290,19 +6500,19 @@
       "url": "https://www.dreamworkhq.com/job/bfe23a18-5ddd-4593-81a7-9b21496fb097?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "fa245248-b8ce-4ada-a11c-3d102176848e",
+      "id": "0ddeb0e8-2198-4fe8-9d39-7261fa19fe2e",
       "title": "Cyber Defense Ops Specialist",
       "company": "Citizensbank",
       "companyDomain": "jobs.citizensbank.com",
       "location": "United States",
       "remoteType": "onsite",
-      "salaryMin": 64900,
+      "salaryMin": 66320,
       "salaryMax": 90000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T21:49:14.000Z",
+      "postedAt": "2026-11-05T21:50:09.000Z",
       "firstIndexedAt": "2026-11-06T10:16:07.216Z",
-      "url": "https://www.dreamworkhq.com/job/fa245248-b8ce-4ada-a11c-3d102176848e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/0ddeb0e8-2198-4fe8-9d39-7261fa19fe2e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "2df104ec-39f0-4406-bcb5-4ae852a5f5d9",
@@ -6360,7 +6570,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T00:31:45.121Z",
+      "postedAt": "2026-11-07T02:31:45.773Z",
       "firstIndexedAt": "2026-11-06T09:46:44.339Z",
       "url": "https://www.dreamworkhq.com/job/67ec9292-716c-4822-a8b1-4e41968f0b37?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -6395,21 +6605,6 @@
       "url": "https://www.dreamworkhq.com/job/fc94db4a-6f05-4cbb-a44c-7ea63d27b3db?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "616ee22d-1c4a-4d07-a477-7e96434645b9",
-      "title": "Lead Platform & Cloud Security Architect",
-      "company": "Sandoz",
-      "companyDomain": "sandoz.com",
-      "location": "Telangana (Sandoz)",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T20:15:28.169Z",
-      "firstIndexedAt": "2026-11-06T09:35:45.805Z",
-      "url": "https://www.dreamworkhq.com/job/616ee22d-1c4a-4d07-a477-7e96434645b9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "c1fab9c4-91db-454c-8921-26f3cfbf0147",
       "title": "IAM Security Architect",
       "company": "Sandoz",
@@ -6423,6 +6618,21 @@
       "postedAt": "2026-11-06T20:15:28.148Z",
       "firstIndexedAt": "2026-11-06T09:35:45.805Z",
       "url": "https://www.dreamworkhq.com/job/c1fab9c4-91db-454c-8921-26f3cfbf0147?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "616ee22d-1c4a-4d07-a477-7e96434645b9",
+      "title": "Lead Platform & Cloud Security Architect",
+      "company": "Sandoz",
+      "companyDomain": "sandoz.com",
+      "location": "Telangana (Sandoz)",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T20:15:28.169Z",
+      "firstIndexedAt": "2026-11-06T09:35:45.805Z",
+      "url": "https://www.dreamworkhq.com/job/616ee22d-1c4a-4d07-a477-7e96434645b9?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "0950974c-7e12-409b-ba55-a1bce4503ced",
@@ -6470,21 +6680,6 @@
       "url": "https://www.dreamworkhq.com/job/16ba4619-d03b-4683-83cf-a11fd5028062?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "7cadbb1e-dc7c-4582-95b3-1d1370eb0fea",
-      "title": "Software Dev Engineer I - Security Platform",
-      "company": "Twitch",
-      "companyDomain": "twitch.tv",
-      "location": "Seattle, WA",
-      "remoteType": null,
-      "salaryMin": 110500,
-      "salaryMax": 160000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T23:49:58.000Z",
-      "firstIndexedAt": "2026-11-06T08:45:19.229Z",
-      "url": "https://www.dreamworkhq.com/job/7cadbb1e-dc7c-4582-95b3-1d1370eb0fea?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "049a7b31-d95d-4678-8cd0-0245cb84477d",
       "title": "Software Dev Engineer I - Security Platform",
       "company": "Twitch",
@@ -6498,6 +6693,21 @@
       "postedAt": "2026-11-04T23:50:00.000Z",
       "firstIndexedAt": "2026-11-06T08:45:19.229Z",
       "url": "https://www.dreamworkhq.com/job/049a7b31-d95d-4678-8cd0-0245cb84477d?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "7cadbb1e-dc7c-4582-95b3-1d1370eb0fea",
+      "title": "Software Dev Engineer I - Security Platform",
+      "company": "Twitch",
+      "companyDomain": "twitch.tv",
+      "location": "Seattle, WA",
+      "remoteType": null,
+      "salaryMin": 110500,
+      "salaryMax": 160000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-04T23:49:58.000Z",
+      "firstIndexedAt": "2026-11-06T08:45:19.229Z",
+      "url": "https://www.dreamworkhq.com/job/7cadbb1e-dc7c-4582-95b3-1d1370eb0fea?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "5e602bc4-6c5d-4c84-9f15-98603ed0caf1",
@@ -6545,21 +6755,6 @@
       "url": "https://www.dreamworkhq.com/job/f0c29245-52f3-4be0-8b46-fb36bbbb3c07?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "5112b2f6-ef06-4f24-9bb0-a478b45a56cb",
-      "title": "Application Security Engineer",
-      "company": "Vestwell",
-      "companyDomain": "vestwell.com",
-      "location": "New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ",
-      "remoteType": "hybrid",
-      "salaryMin": 140000,
-      "salaryMax": 150000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T21:40:48.000Z",
-      "firstIndexedAt": "2026-11-06T07:30:31.356Z",
-      "url": "https://www.dreamworkhq.com/job/5112b2f6-ef06-4f24-9bb0-a478b45a56cb?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "7d864052-ea67-4f2f-970a-e0d864ede3df",
       "title": "Staff Application Security Engineer",
       "company": "Vestwell",
@@ -6573,6 +6768,21 @@
       "postedAt": "2026-11-05T21:40:34.000Z",
       "firstIndexedAt": "2026-11-06T07:30:31.356Z",
       "url": "https://www.dreamworkhq.com/job/7d864052-ea67-4f2f-970a-e0d864ede3df?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "5112b2f6-ef06-4f24-9bb0-a478b45a56cb",
+      "title": "Application Security Engineer",
+      "company": "Vestwell",
+      "companyDomain": "vestwell.com",
+      "location": "New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ",
+      "remoteType": "hybrid",
+      "salaryMin": 140000,
+      "salaryMax": 150000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-05T21:40:48.000Z",
+      "firstIndexedAt": "2026-11-06T07:30:31.356Z",
+      "url": "https://www.dreamworkhq.com/job/5112b2f6-ef06-4f24-9bb0-a478b45a56cb?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "9e3e2af1-7494-4b3d-bbbe-e9e13bc25f08",
@@ -6600,7 +6810,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T00:31:45.423Z",
+      "postedAt": "2026-11-07T02:31:49.333Z",
       "firstIndexedAt": "2026-11-06T07:17:06.503Z",
       "url": "https://www.dreamworkhq.com/job/9a8ea96c-ead4-492d-a715-e8b49025afbf?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
@@ -6665,21 +6875,6 @@
       "url": "https://www.dreamworkhq.com/job/d6c278ee-296a-4028-a456-51cb861220d7?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "1255443f-ee79-42f2-acca-5cefe20b975c",
-      "title": "Cyber Security Identity Manager",
-      "company": "Water Corporation",
-      "companyDomain": "watercorporation.com.au",
-      "location": "Leederville, Perth WA",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T05:09:13.000Z",
-      "firstIndexedAt": "2026-11-06T07:08:47.899Z",
-      "url": "https://www.dreamworkhq.com/job/1255443f-ee79-42f2-acca-5cefe20b975c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "72193b05-2677-42d9-a996-1a3af37df88e",
       "title": "ICT and Cyber Security Manager",
       "company": "Babcock International Group",
@@ -6695,6 +6890,21 @@
       "url": "https://www.dreamworkhq.com/job/72193b05-2677-42d9-a996-1a3af37df88e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "1255443f-ee79-42f2-acca-5cefe20b975c",
+      "title": "Cyber Security Identity Manager",
+      "company": "Water Corporation",
+      "companyDomain": "watercorporation.com.au",
+      "location": "Leederville, Perth WA",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T05:09:13.000Z",
+      "firstIndexedAt": "2026-11-06T07:08:47.899Z",
+      "url": "https://www.dreamworkhq.com/job/1255443f-ee79-42f2-acca-5cefe20b975c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "18c57cf0-4e1d-4392-ab79-5c1a12108f05",
       "title": "Security Engineer",
       "company": "Tech & Data People",
@@ -6708,6 +6918,21 @@
       "postedAt": "2026-11-06T05:15:07.000Z",
       "firstIndexedAt": "2026-11-06T07:08:47.899Z",
       "url": "https://www.dreamworkhq.com/job/18c57cf0-4e1d-4392-ab79-5c1a12108f05?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "ee0bd5f4-2589-44b2-a966-a013dec40967",
+      "title": "Senior XDR/Endpoint Security Engineer, 12+ Contract, $1100 - $1250/day NV1/NV2",
+      "company": "Needus",
+      "companyDomain": "needus.com",
+      "location": "Sydney NSW",
+      "remoteType": "hybrid",
+      "salaryMin": 198000,
+      "salaryMax": 225000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-06T06:18:18.000Z",
+      "firstIndexedAt": "2026-11-06T07:08:45.724Z",
+      "url": "https://www.dreamworkhq.com/job/ee0bd5f4-2589-44b2-a966-a013dec40967?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "6ca46e4e-3f64-4ffe-8604-c70194d55997",
@@ -6815,21 +7040,6 @@
       "url": "https://www.dreamworkhq.com/job/43ec1490-551b-48df-b92e-838a96733546?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "a7095d5d-19d3-4918-91d8-1f4252e8bdaf",
-      "title": "Senior Security Engineer, Product & Platform",
-      "company": "Litellm",
-      "companyDomain": "litellm.ai",
-      "location": "San Francisco",
-      "remoteType": "onsite",
-      "salaryMin": 220000,
-      "salaryMax": 280000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T15:56:39.028Z",
-      "firstIndexedAt": "2026-11-06T06:45:17.669Z",
-      "url": "https://www.dreamworkhq.com/job/a7095d5d-19d3-4918-91d8-1f4252e8bdaf?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
       "id": "735e2a5e-678d-485a-bc7b-63441f29b8b6",
       "title": "Senior Security Operations / Detection Engineer",
       "company": "Litellm",
@@ -6843,6 +7053,21 @@
       "postedAt": "2026-11-05T15:59:15.230Z",
       "firstIndexedAt": "2026-11-06T06:45:17.669Z",
       "url": "https://www.dreamworkhq.com/job/735e2a5e-678d-485a-bc7b-63441f29b8b6?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "a7095d5d-19d3-4918-91d8-1f4252e8bdaf",
+      "title": "Senior Security Engineer, Product & Platform",
+      "company": "Litellm",
+      "companyDomain": "litellm.ai",
+      "location": "San Francisco",
+      "remoteType": "onsite",
+      "salaryMin": 220000,
+      "salaryMax": 280000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-05T15:56:39.028Z",
+      "firstIndexedAt": "2026-11-06T06:45:17.669Z",
+      "url": "https://www.dreamworkhq.com/job/a7095d5d-19d3-4918-91d8-1f4252e8bdaf?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "80339179-bed6-4635-97e9-c79ec7dd565a",
@@ -6870,12 +7095,12 @@
       "salaryMax": 180000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T01:18:38.110Z",
+      "postedAt": "2026-11-06T04:04:58.751Z",
       "firstIndexedAt": "2026-11-06T06:21:07.975Z",
       "url": "https://www.dreamworkhq.com/job/1752fafd-c322-43f6-972a-1f1fca91664e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "fadb356f-8bcc-4226-bce8-0224ca9b747b",
+      "id": "afe3bca4-09dc-424c-a24a-020df1931e11",
       "title": "(USA) Staff, Systems And Infrastructure Engineer, Information Security",
       "company": "Walmart",
       "companyDomain": "walmart.com",
@@ -6885,39 +7110,9 @@
       "salaryMax": 220000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T01:18:37.890Z",
+      "postedAt": "2026-11-06T04:04:58.821Z",
       "firstIndexedAt": "2026-11-06T06:21:07.975Z",
-      "url": "https://www.dreamworkhq.com/job/fadb356f-8bcc-4226-bce8-0224ca9b747b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "893f0914-8361-44d2-953e-f6303de71081",
-      "title": "Intern, Cyber Security",
-      "company": "Ilitch",
-      "companyDomain": "ilitchcompanies.com",
-      "location": "Detroit, MI",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T21:01:52.669Z",
-      "firstIndexedAt": "2026-11-06T05:51:43.653Z",
-      "url": "https://www.dreamworkhq.com/job/893f0914-8361-44d2-953e-f6303de71081?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "ab6c7185-6078-4e94-b8d6-c254615973c5",
-      "title": "Intern, Department Cyber IT",
-      "company": "Ilitch",
-      "companyDomain": "ilitchcompanies.com",
-      "location": "Detroit, MI",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T21:01:52.706Z",
-      "firstIndexedAt": "2026-11-06T05:51:43.653Z",
-      "url": "https://www.dreamworkhq.com/job/ab6c7185-6078-4e94-b8d6-c254615973c5?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/afe3bca4-09dc-424c-a24a-020df1931e11?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "0b0c7537-319d-40fd-91f4-04dc6578c431",
@@ -6935,19 +7130,49 @@
       "url": "https://www.dreamworkhq.com/job/0b0c7537-319d-40fd-91f4-04dc6578c431?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "d23a0278-487a-4e0e-ad69-23f229652f44",
-      "title": "Security Engineer, Applications",
+      "id": "ab6c7185-6078-4e94-b8d6-c254615973c5",
+      "title": "Intern, Department Cyber IT",
+      "company": "Ilitch",
+      "companyDomain": "ilitchcompanies.com",
+      "location": "Detroit, MI",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-05T21:01:52.706Z",
+      "firstIndexedAt": "2026-11-06T05:51:43.653Z",
+      "url": "https://www.dreamworkhq.com/job/ab6c7185-6078-4e94-b8d6-c254615973c5?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "893f0914-8361-44d2-953e-f6303de71081",
+      "title": "Intern, Cyber Security",
+      "company": "Ilitch",
+      "companyDomain": "ilitchcompanies.com",
+      "location": "Detroit, MI",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-05T21:01:52.669Z",
+      "firstIndexedAt": "2026-11-06T05:51:43.653Z",
+      "url": "https://www.dreamworkhq.com/job/893f0914-8361-44d2-953e-f6303de71081?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "f37bdad2-a9b5-4815-8c4c-00ed60460584",
+      "title": "Security Engineer II - Threat & Vulnerability Management",
       "company": "Amtrustgroup",
       "companyDomain": "amtrustfinancial.com",
       "location": "Cleveland, OH, US",
-      "remoteType": null,
+      "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
       "postedAt": "2026-11-05T05:00:00.000Z",
       "firstIndexedAt": "2026-11-06T05:46:05.984Z",
-      "url": "https://www.dreamworkhq.com/job/d23a0278-487a-4e0e-ad69-23f229652f44?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/f37bdad2-a9b5-4815-8c4c-00ed60460584?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "5dc9c148-ebd3-4156-9fa9-96cb70a65b77",
@@ -6965,19 +7190,19 @@
       "url": "https://www.dreamworkhq.com/job/5dc9c148-ebd3-4156-9fa9-96cb70a65b77?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
-      "id": "f37bdad2-a9b5-4815-8c4c-00ed60460584",
-      "title": "Security Engineer II - Threat & Vulnerability Management",
+      "id": "d23a0278-487a-4e0e-ad69-23f229652f44",
+      "title": "Security Engineer, Applications",
       "company": "Amtrustgroup",
       "companyDomain": "amtrustfinancial.com",
       "location": "Cleveland, OH, US",
-      "remoteType": "hybrid",
+      "remoteType": null,
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
       "postedAt": "2026-11-05T05:00:00.000Z",
       "firstIndexedAt": "2026-11-06T05:46:05.984Z",
-      "url": "https://www.dreamworkhq.com/job/f37bdad2-a9b5-4815-8c4c-00ed60460584?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+      "url": "https://www.dreamworkhq.com/job/d23a0278-487a-4e0e-ad69-23f229652f44?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "0258221b-6eb2-4a9e-b355-2198f56c2f15",
@@ -7608,6 +7833,21 @@
       "postedAt": "2026-11-05T22:13:17.000Z",
       "firstIndexedAt": "2026-11-06T02:40:00.674Z",
       "url": "https://www.dreamworkhq.com/job/c1ee40f2-a75c-4830-b0c3-0110eb8f50cc?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
+      "id": "124cffbb-6340-46b8-8768-523a88b0be2d",
+      "title": "IT Specialist (Information Security Officer)",
+      "company": "Administrative Office of the U.S. Courts",
+      "companyDomain": null,
+      "location": "Washington, District of Columbia",
+      "remoteType": "hybrid",
+      "salaryMin": 75776,
+      "salaryMax": 75776,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-05T07:30:34.000Z",
+      "firstIndexedAt": "2026-11-06T02:39:57.299Z",
+      "url": "https://www.dreamworkhq.com/job/124cffbb-6340-46b8-8768-523a88b0be2d?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
       "id": "0a55fff9-fee1-4ee4-9346-86052289b5c9",
@@ -8585,6 +8825,21 @@
       "url": "https://www.dreamworkhq.com/job/002ec1f7-71b3-4ca4-b747-a34eb806151e?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     },
     {
+      "id": "8a0428dd-ac5b-4f51-ab63-9e79aaf24857",
+      "title": "Mid Level Information System Security Officer (ISSO) (eMASS Specialist)",
+      "company": "Amentum",
+      "companyDomain": "amentumcareers.com",
+      "location": "US-MD-Fort Meade1-8608 (MD063)",
+      "remoteType": "onsite",
+      "salaryMin": 120000,
+      "salaryMax": 160000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-05T07:42:03.000Z",
+      "firstIndexedAt": "2026-11-06T02:37:53.157Z",
+      "url": "https://www.dreamworkhq.com/job/8a0428dd-ac5b-4f51-ab63-9e79aaf24857?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
+    },
+    {
       "id": "42f414fa-bb44-4191-9383-5d73263e8f8b",
       "title": "Cybersecurity Assessor",
       "company": "ACTIVE",
@@ -8748,261 +9003,6 @@
       "postedAt": "2026-11-05T18:43:29.000Z",
       "firstIndexedAt": "2026-11-06T02:37:15.779Z",
       "url": "https://www.dreamworkhq.com/job/b2338179-aedf-417e-a305-af45b6184c34?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "96a0624b-d107-4f9f-9bad-075f14b34c6c",
-      "title": "Senior Platform Security Engineer (Remote)",
-      "company": "Fanatics",
-      "companyDomain": "fanatics.com",
-      "location": "New York, NY, United States",
-      "remoteType": "remote",
-      "salaryMin": 138240,
-      "salaryMax": 172800,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T04:29:10.000Z",
-      "firstIndexedAt": "2026-11-06T02:37:09.064Z",
-      "url": "https://www.dreamworkhq.com/job/96a0624b-d107-4f9f-9bad-075f14b34c6c?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "21e7a8d9-c0f2-414e-96de-ca5d54ffcf35",
-      "title": "Senior Cybersecurity Engineer - Enterprise Security Engineering",
-      "company": "Workday",
-      "companyDomain": "workaday.com",
-      "location": "USA, GA, Atlanta",
-      "remoteType": "onsite",
-      "salaryMin": 95000,
-      "salaryMax": 142000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T04:34:25.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:57.428Z",
-      "url": "https://www.dreamworkhq.com/job/21e7a8d9-c0f2-414e-96de-ca5d54ffcf35?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "413c885d-0741-4704-a2f5-94e4469c45d8",
-      "title": "Offensive Cyber Analyst",
-      "company": "BB6 Defense",
-      "companyDomain": "bb6defense.com",
-      "location": "Alexandria, VA",
-      "remoteType": "onsite",
-      "salaryMin": 120000,
-      "salaryMax": 160000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T12:09:54.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:48.389Z",
-      "url": "https://www.dreamworkhq.com/job/413c885d-0741-4704-a2f5-94e4469c45d8?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "58f39df8-16e4-4777-8400-7c2dffd8ee07",
-      "title": "Principal / Cybersecurity Analyst - 19945 19944 19943 - Roy Utah",
-      "company": "Northrop Grumman",
-      "companyDomain": "northropgrumman.com",
-      "location": "United States-Utah-Roy",
-      "remoteType": "hybrid",
-      "salaryMin": 79300,
-      "salaryMax": 118900,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T05:40:19.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:47.652Z",
-      "url": "https://www.dreamworkhq.com/job/58f39df8-16e4-4777-8400-7c2dffd8ee07?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "23d87e75-0b3a-488f-a4df-f7b2225c8bc7",
-      "title": "2027 Technology Development Program - Cybersecurity (Cloud Security Operations)",
-      "company": "Manufacturers and Traders Trust",
-      "companyDomain": "mtbank.com",
-      "location": "Buffalo, NY",
-      "remoteType": "onsite",
-      "salaryMin": 61506,
-      "salaryMax": 91499,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T02:29:47.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:45.813Z",
-      "url": "https://www.dreamworkhq.com/job/23d87e75-0b3a-488f-a4df-f7b2225c8bc7?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "08815cbc-b05d-4da0-8674-6ed7ac146c72",
-      "title": "Cyber Security Unit Manager - Cyber, Risk & Assurance",
-      "company": "H&M",
-      "companyDomain": "hm.com",
-      "location": "Årstaängsvägen 13, 117 75 Stockholm, Sweden",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T03:10:58.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:44.318Z",
-      "url": "https://www.dreamworkhq.com/job/08815cbc-b05d-4da0-8674-6ed7ac146c72?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "b74b3890-78c4-47cf-9122-06456d117d79",
-      "title": "Sr Principal, Cyber Policy & Culture",
-      "company": "Johnson & Johnson",
-      "companyDomain": null,
-      "location": "Palm Beach Gardens, Florida, United States of America",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T16:25:08.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:37.957Z",
-      "url": "https://www.dreamworkhq.com/job/b74b3890-78c4-47cf-9122-06456d117d79?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "728531e7-3549-412f-8b8f-649efb59aa51",
-      "title": "Sr. Cybersecurity Systems Engineer",
-      "company": "Leidos",
-      "companyDomain": "leidos.com",
-      "location": "Linthicum Heights, MD",
-      "remoteType": "onsite",
-      "salaryMin": 131300,
-      "salaryMax": 237350,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T04:19:45.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:37.957Z",
-      "url": "https://www.dreamworkhq.com/job/728531e7-3549-412f-8b8f-649efb59aa51?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "c2aa4b62-5d59-4e70-b507-520b3bb24db3",
-      "title": "Cybersecurity Analyst",
-      "company": "Trupanion",
-      "companyDomain": "trupanion.com",
-      "location": "Atlanta, GA, USA",
-      "remoteType": "hybrid",
-      "salaryMin": 120000,
-      "salaryMax": 140000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T10:34:51.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:36.815Z",
-      "url": "https://www.dreamworkhq.com/job/c2aa4b62-5d59-4e70-b507-520b3bb24db3?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "38b60da5-19e0-4d82-9b2d-e7e324293575",
-      "title": "Cyber Shift Incident Manager",
-      "company": "BCMC",
-      "companyDomain": "bcmc.com",
-      "location": "Arlington, VA",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T06:52:42.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:35.048Z",
-      "url": "https://www.dreamworkhq.com/job/38b60da5-19e0-4d82-9b2d-e7e324293575?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "ab0683a6-98f5-4102-83fd-892c8bd73940",
-      "title": "Sr Principal, Cyber Policy & Culture",
-      "company": "6090-Johnson & Johnson Services Legal Entity",
-      "companyDomain": null,
-      "location": "Palm Beach Gardens, Florida, United States of America",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T04:24:26.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:34.664Z",
-      "url": "https://www.dreamworkhq.com/job/ab0683a6-98f5-4102-83fd-892c8bd73940?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "5be5b478-4673-441d-8f2f-647c38e01a52",
-      "title": "Cyber Security Analyst L3",
-      "company": "Wipro",
-      "companyDomain": "wipro.com",
-      "location": "Pune",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T21:53:13.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:31.112Z",
-      "url": "https://www.dreamworkhq.com/job/5be5b478-4673-441d-8f2f-647c38e01a52?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "2585c1ca-7a54-433f-9917-d94d5b6d5103",
-      "title": "Information Security Architect",
-      "company": "HH Global",
-      "companyDomain": "hhglobal.com",
-      "location": "Bogotá, Bogota, Colombia",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T02:08:48.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:29.748Z",
-      "url": "https://www.dreamworkhq.com/job/2585c1ca-7a54-433f-9917-d94d5b6d5103?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "a3a69233-0472-4dfd-9474-770cb8457d01",
-      "title": "Cyber Analyst",
-      "company": "Ascendancy Group",
-      "companyDomain": "ascendancygroup.com",
-      "location": "Colorado Springs, CO",
-      "remoteType": "onsite",
-      "salaryMin": 88000,
-      "salaryMax": 113000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T13:06:50.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:29.423Z",
-      "url": "https://www.dreamworkhq.com/job/a3a69233-0472-4dfd-9474-770cb8457d01?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "1ead6346-8401-4af5-942a-452508783b3f",
-      "title": "IT/OT Cybersecurity Lead",
-      "company": "Freese and Nichols",
-      "companyDomain": "freesenic.com",
-      "location": "Jacksonville, Florida",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T16:56:46.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:27.428Z",
-      "url": "https://www.dreamworkhq.com/job/1ead6346-8401-4af5-942a-452508783b3f?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "21e24a93-b1ae-4426-82ef-eac6582a0d42",
-      "title": "Cyber Security Manager",
-      "company": "Great British Energy – Nuclear",
-      "companyDomain": "greatbritishenergy.gov.uk",
-      "location": "Warrington",
-      "remoteType": null,
-      "salaryMin": 100000,
-      "salaryMax": 100000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T06:59:05.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:25.392Z",
-      "url": "https://www.dreamworkhq.com/job/21e24a93-b1ae-4426-82ef-eac6582a0d42?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
-    },
-    {
-      "id": "29b8e8a6-ade9-426b-9936-9bb91c43a58b",
-      "title": "Expert(e) principal(e) en cybersécurité / Senior Security Specialist",
-      "company": "Microsoft",
-      "companyDomain": "microsoft.com",
-      "location": "Montreal, Quebec, Canada",
-      "remoteType": null,
-      "salaryMin": 143000,
-      "salaryMax": 143000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T23:01:15.000Z",
-      "firstIndexedAt": "2026-11-06T02:36:18.694Z",
-      "url": "https://www.dreamworkhq.com/job/29b8e8a6-ade9-426b-9936-9bb91c43a58b?utm_source=github&utm_campaign=gh-cybersecurity-jobs"
     }
   ]
 }
